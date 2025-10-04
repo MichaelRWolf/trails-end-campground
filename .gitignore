@@ -1,0 +1,54 @@
+# Documentation-specific ignores
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Log files
+*.log
+
+# Archive files (unless they're part of the documentation)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Compiled documentation (if using tools like Sphinx, GitBook, etc.)
+_build/
+_site/
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache directories
+.cache/
+.parcel-cache/
