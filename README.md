@@ -2,6 +2,10 @@
 
 This repository contains documentation files for the Trails End campground project.
 
+## Projects
+
+1. [Story Signs](story_signs/README.md) - Interactive story signage system for the campground
+
 ## Contents
 
 This repository includes various documentation files in Markdown (.md) and text (.txt) formats.
