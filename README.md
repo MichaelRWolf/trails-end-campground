@@ -4,7 +4,17 @@ This repository contains documentation files for the Trails End campground proje
 
 ## Projects
 
-1. [Story Signs](story_signs/README.md) - Interactive story signage system for the campground
+1. [Vision Signs](vision_signs/README.md) - Inspirational signage system that encourages, educates, and guides campground visitors
+   - [Project Details](vision_signs/PROJECT.md) - Complete project coordination and context
+
+## Background Information
+
+- [Wild Areas](source/wild_areas.md) - Natural environment, ecology, and wildlife
+- [Cultivated Areas](source/cultivated_areas.md) - Farm fields, orchards, and growing spaces
+- [Infrastructure](source/infrastructure.md) - Built systems, trails, and facilities
+- [Residential Areas](source/residential_areas.md) - Living spaces from tents to seasonal homes
+- [Work Spaces](source/work_spaces.md) - Productive areas from farm work to remote work
+- [Recreational Areas](source/recreational_areas.md) - Trails, events, and outdoor activities
 
 ## Contents
 

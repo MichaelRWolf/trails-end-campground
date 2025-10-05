@@ -1,5 +1,28 @@
 # Story Signs Implementation Plan
 
+## Phase 1 - Promote farm stand from the farm and campground
+
+Goal - Get campers to buy produce at The Genny
+
+How - Tell the farm story and direct campers to The Genny
+
+Deliverables
+
+- Artifact level signs - Encouragement and directions to The Genny. (3 second, 30 second)
+  1. Hope field
+  2. Corn field
+  3. Blueberry field
+
+- Vision level signs - Vision story and directions to The Genny (3 second, 30 second, 3 minute)
+  4. Pump House
+  5. Welcome Board
+
+## Phase 2 - Promote Farm from The Genny
+
+Goal - Encourage casual passers-by at The Genny to buy produce.
+
+How - By selling the story of the farm by telling the story of the farm
+
 ## Collect Background Information
 
 To generate more comprehensive sign content and ensure we capture the full story of Trails End Campground, we need to gather the following information:
