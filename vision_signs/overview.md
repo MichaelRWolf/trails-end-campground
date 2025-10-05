@@ -77,3 +77,9 @@ This project should produce the following "signs" to help visitors learn the sto
 - Big Vision - A large plaque or multi-sign display.  At the pump house.  Main overview that ties a lot of this together.  Lists artifacts.  Explains vision.  Lists values.  Gives directions to other signs around the property.
 - Field signs - At each field, a sign names the field and explains the goal of that growing area.  Gives enrolling story about "eat local" and encouragement to buy produce at The Genny.
 - Orcahrd signs - Similar to field signs
+
+
+For each planting area in ../source/cultivated_areas.md, create a file in vision_signs/ directory.
+
+
+
