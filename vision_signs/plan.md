@@ -1,5 +1,7 @@
 # Story Signs Implementation Plan
 
+See the [Signage Style Guide](Signage_Style_Guide.md) for design standards, content structure, and accessibility guidelines.
+
 ## Phase 1 - Promote farm stand from the farm and campground
 
 Goal - Get campers to buy produce at The Genny

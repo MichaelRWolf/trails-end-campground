@@ -31,6 +31,7 @@ Config file location search order:
 
 1. [Vision Signs](vision_signs/README.md) - Inspirational signage system that encourages, educates, and guides campground visitors
    - [Project Details](vision_signs/PROJECT.md) - Complete project coordination and context
+   - [Signage Style Guide](vision_signs/Signage_Style_Guide.md) - Design standards, typography, and content guidelines for interpretive signage
 
 ## Background Information
 
