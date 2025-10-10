@@ -25,6 +25,11 @@ The site is a rich collection of overlapping uses
 
 ## Goals
 
+- Encourage folks at [CG, The Genny] to buy produce
+- Inspire folks at [CG, The Genny] with "The Vision" (of CG and farm)
+- Encourage folks to visit farm
+- Direct folks on guided farm tour.  Educate, inspire, engage.
+
 - Promote farm produce to campers.  Campsiates are adjacent to farm fields, but campers don't know how to purchase food.  Let them know where to buy the produce.  Enroll them in the story of "eating so local" that they actually sleep next to where their food is grown.
 - Promote the farm to "roadside stand" in cooler outside of "The Genny".  The current set-up looks like an adjunct POS vending machine.  It could do a lot better at promoting the farm, inviting folks to take a tour, enrolling them in "eat local", and getting them to buy into a much bigger story than just "buying another carrot or tomatoe".  Sell the vision, not just the goods.
 - Describe "the artifacts" of the vision: fields, trails, building, trees, walls.
@@ -78,8 +83,4 @@ This project should produce the following "signs" to help visitors learn the sto
 - Field signs - At each field, a sign names the field and explains the goal of that growing area.  Gives enrolling story about "eat local" and encouragement to buy produce at The Genny.
 - Orcahrd signs - Similar to field signs
 
-
 For each planting area in ../source/cultivated_areas.md, create a file in vision_signs/ directory.
-
-
-

@@ -6,11 +6,11 @@ Establish consistent, durable, and engaging interpretive and educational signage
 
 ## 2. Audience & Reading Goals
 
-| Visitor Type | Context | Reading Duration | Word Range |
-|---------------|----------|------------------|-------------|
-| Passing hiker / biker | Glance while moving | 3–5 sec | 15–25 words |
-| Curious visitor | Stops briefly | 20–30 sec | 40–80 words |
-| Engaged learner | Reads full panel | 1–3 min | 100–150 words |
+| Visitor Type          | Context             | Reading Duration | Word Range    |
+|-----------------------|---------------------|------------------|---------------|
+| Passing hiker / biker | Glance while moving | 3–5 sec          | 15–25 words   |
+| Curious visitor       | Stops briefly       | 20–30 sec        | 40–80 words   |
+| Engaged learner       | Reads full panel    | 1–3 min          | 100–150 words |
 
 Use the **3-30-3 Rule**: communicate something meaningful in 3 seconds, reward curiosity for 30 seconds, and reward engagement for 3 minutes.
 
@@ -25,12 +25,12 @@ Use the **3-30-3 Rule**: communicate something meaningful in 3 seconds, reward c
 
 ## 4. Typography & Layout
 
-| Element | Font | Size | Notes |
-|----------|------|------|-------|
-| Title | Source Sans Pro Bold | 2.0–2.5 in | ≤ 8 words; sentence case |
-| Subtitle | Source Sans Pro SemiBold | 1.25 in | optional; ≤ 12 words |
-| Body | Source Sans Pro Regular | 0.75–1.0 in | 40–120 words; ≤ 50 characters per line |
-| Caption | Source Sans Pro Italic | 0.65 in | short image credit or label |
+| Element  | Font                     | Size        | Notes                                  |
+|----------|--------------------------|-------------|----------------------------------------|
+| Title    | Source Sans Pro Bold     | 2.0–2.5 in  | ≤ 8 words; sentence case               |
+| Subtitle | Source Sans Pro SemiBold | 1.25 in     | optional; ≤ 12 words                   |
+| Body     | Source Sans Pro Regular  | 0.75–1.0 in | 40–120 words; ≤ 50 characters per line |
+| Caption  | Source Sans Pro Italic   | 0.65 in     | short image credit or label            |
 
 - Minimum contrast ratio 70%.  
 - Maintain 15–25% whitespace.
@@ -38,12 +38,12 @@ Use the **3-30-3 Rule**: communicate something meaningful in 3 seconds, reward c
 
 ## 5. Color & Material Palette
 
-| Purpose | Color | Material | Finish |
-|----------|--------|-----------|---------|
-| Background | Off-white or muted tan | HDPE / powder-coated aluminum | Matte UV-resistant |
-| Text | Charcoal / black | — | Matte |
-| Accent / header bar | Forest green or deep rust | — | Low gloss |
-| Illustrations / maps | Natural tones; avoid high saturation | — | Matte print |
+| Purpose              | Color                                | Material                      | Finish             |
+|----------------------|--------------------------------------|-------------------------------|--------------------|
+| Background           | Off-white or muted tan               | HDPE / powder-coated aluminum | Matte UV-resistant |
+| Text                 | Charcoal / black                     | —                             | Matte              |
+| Accent / header bar  | Forest green or deep rust            | —                             | Low gloss          |
+| Illustrations / maps | Natural tones; avoid high saturation | —                             | Matte print        |
 
 ## 6. Placement & Orientation
 
@@ -54,13 +54,13 @@ Use the **3-30-3 Rule**: communicate something meaningful in 3 seconds, reward c
 
 ## 7. Content Framework
 
-| Section | Purpose | Notes |
-|----------|----------|--------|
-| Title | Emotional or thematic hook | e.g., "The Soil That Breathes" |
-| Intro (1–2 sentences) | Contextual overview | Establish relevance quickly |
-| Body | Key story / explanation | Include dates, names, and sensory description |
-| Visual Element | Reinforce story visually | Map, diagram, or photo with caption |
-| Call to Action | Encourage reflection or behavior | e.g., "Pause and listen for pollinators." |
+| Section               | Purpose                          | Notes                                         |
+|-----------------------|----------------------------------|-----------------------------------------------|
+| Title                 | Emotional or thematic hook       | e.g., "The Soil That Breathes"                |
+| Intro (1–2 sentences) | Contextual overview              | Establish relevance quickly                   |
+| Body                  | Key story / explanation          | Include dates, names, and sensory description |
+| Visual Element        | Reinforce story visually         | Map, diagram, or photo with caption           |
+| Call to Action        | Encourage reflection or behavior | e.g., "Pause and listen for pollinators."     |
 
 ## 8. Accessibility & Inclusivity
 
@@ -77,20 +77,20 @@ Use the **3-30-3 Rule**: communicate something meaningful in 3 seconds, reward c
 
 ## 10. Maintenance Schedule
 
-| Interval | Task |
-|-----------|------|
-| Quarterly | Check for dirt, fading, vandalism |
-| Annually | Clean surfaces, verify QR links |
-| 5 Years | Review for factual or thematic updates |
-| 7–10 Years | Replace or redesign panel |
+| Interval   | Task                                   |
+|------------|----------------------------------------|
+| Quarterly  | Check for dirt, fading, vandalism      |
+| Annually   | Clean surfaces, verify QR links        |
+| 5 Years    | Review for factual or thematic updates |
+| 7–10 Years | Replace or redesign panel              |
 
 ## 11. Example Sign Concepts
 
-| Theme | Location | Suggested Media |
-|--------|-----------|-----------------|
-| The Life of Compost | Soil & Soul Farm | Layer diagram + QR to decomposition timelapse |
-| The Power of Pollinators | Meadow Trail | Photo collage + soundscape QR |
-| From Rain to River | Trails End | Map + short poem + drainage sketch |
+| Theme                    | Location         | Suggested Media                               |
+|--------------------------|------------------|-----------------------------------------------|
+| The Life of Compost      | Soil & Soul Farm | Layer diagram + QR to decomposition timelapse |
+| The Power of Pollinators | Meadow Trail     | Photo collage + soundscape QR                 |
+| From Rain to River       | Trails End       | Map + short poem + drainage sketch            |
 
 ## 12. Road-side Historical Signs
 
