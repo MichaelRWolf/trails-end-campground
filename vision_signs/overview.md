@@ -25,10 +25,12 @@ The site is a rich collection of overlapping uses
 
 ## Goals
 
-- Encourage folks at [CG, The Genny] to buy produce
-- Inspire folks at [CG, The Genny] with "The Vision" (of CG and farm)
-- Encourage folks to visit farm
-- Direct folks on guided farm tour.  Educate, inspire, engage.
+- Encourage folks at to buy produce.  Signs at Farm and The Genny.
+- Inspire folks with vision of the farm.  Signs at Farm and The Genny.
+- Inspire folks with vision of the Campground.
+- Inspire folks with vision of combined land use - Campground + Farm + Businesses
+- Encourage folks to visit farm.  Orchard Trail tour.  View the fields.  Learn where their food comes from.  Enjoy a natural oasis.
+- Narrate self-guided tour of property.
 
 - Promote farm produce to campers.  Campsiates are adjacent to farm fields, but campers don't know how to purchase food.  Let them know where to buy the produce.  Enroll them in the story of "eating so local" that they actually sleep next to where their food is grown.
 - Promote the farm to "roadside stand" in cooler outside of "The Genny".  The current set-up looks like an adjunct POS vending machine.  It could do a lot better at promoting the farm, inviting folks to take a tour, enrolling them in "eat local", and getting them to buy into a much bigger story than just "buying another carrot or tomatoe".  Sell the vision, not just the goods.
@@ -37,6 +39,39 @@ The site is a rich collection of overlapping uses
 - Desribe the vision behind the story.
 
 ## Artifacts
+
+### 3-x-x Signs
+
+1. Caution - Beaver Crossing/Human Crossing.  Cute.  Short.  One direction shows a beaver, the other shows a human.  Playful highlight call out that beavers have trails that cross the Orchard Trail.
+
+### 3-30-x Signs
+
+1. Info sign at Hope field
+2. Info sign at Blackeerry Trellaces.  Add trivia about growing in this locale.
+
+### 3-30-3 Signs
+
+1. Welcome to Soil & Soul Farm - At welcome board.
+2. Welcome to Trails End Campground - At welcome board.
+3. Farm Stand - At The Genny.  This is more than a farm stand.  More than a cooler full of veggies.  It is an expression of our love for the land.  Veggies grown less than 2 miles from here by people who care a lot about health, soil, soul, connections (to land and people and ourselves).  Please visit us.  Where this food is grown.  View the beautiful fields in a park-like environment.  Take a walk.  See the views.  Relax in nature and feel what it feels like to be connected to your food, the people who grew the food, and the land the food was grown on.
+
+### Vision Signs
+
+1. Welcome to "The Experiment".  An alternative, deeper explanation a the beginning of the self-guided experience.  Located near, but not at, welcome board on the Orchard Trail beginning.  Point to ideas that will be expanded further on the walk.
+
+   - Beyond "zoning boards", this plot of land uses what permaculture calls "layering".  
+Zoning boards would label residential, recreational, park, light industrial, office space, vacation rentals, and nature preserve.  Aaron calls it "Ecology 3.0".  
+
+- Organic farming practices
+- Self-sufficiency - solar, water
+- Living with nature
+
+Deep Dive into the Farm
+[TBD - For now, just list some topics that could be explained in a big board that was originally visioned as an interactive display, but which has gone 'media-is-the-message' by being a simpler (i.e. paper) version.
+
+TODO
+
+- Get better explanation from Aaron regarding Ecology 3.0)
 
 ## Values
 

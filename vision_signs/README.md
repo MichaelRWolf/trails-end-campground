@@ -1,4 +1,4 @@
-C# Story Signs
+# Story Signs
 
 Interactive story signage system for the Trails End campground.
 

@@ -4,15 +4,19 @@
 
 Many of the growing areas have names (e.g. "Hope").
 
-## Hope - A vegetable
+## Hope Field - A field for seasonal veggies and flowers.  Lettuce mixes.  Kale.  Cabbage.  Carrots.  Rotations through the season
 
-## Site20 - A future vegetable bed
+## XXX Field
+
+## YYY Field
+
+## Site20 Field - A future vegetable bed
 
 ## Blueberry Field
 
 ## Blackberry Trellaces
 
-Thornless berries.  Huge.  Broght here by Aaron's mom, Linda.
+Thornless berries.  Huge berries.  Unknown kind.  Broght here by Aaron's mom, Linda.
 
 ## Lavendar Bed
 
@@ -52,6 +56,4 @@ These cascaded beds provide a wonderful sight for hikers on the orcahard trail. 
 
 Many of the walls on The Point, around the lake, and the flower beds
 
-
 The walls were created as part of a training exericise.  Years ago, Aaron needed a way to train workers at Rock Solid how to build walls.  They didn't know how.  They needed to know for a project elsewhere.  By building them here, they learned skills for use on other contracts.
-

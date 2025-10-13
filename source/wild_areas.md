@@ -9,6 +9,7 @@
 **Ecology** - The scientific study of the relationships between living organisms and their environment, including interactions among organisms and between organisms and their physical surroundings.
 
 ### Vernacular (Current)
+
 g
 **Ecology** - The interconnected system or environment in which something operates; the complex network of relationships and dependencies within any given context or domain.
 

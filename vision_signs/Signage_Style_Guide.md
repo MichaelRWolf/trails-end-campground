@@ -62,6 +62,66 @@ Use the **3-30-3 Rule**: communicate something meaningful in 3 seconds, reward c
 | Visual Element        | Reinforce story visually         | Map, diagram, or photo with caption           |
 | Call to Action        | Encourage reflection or behavior | e.g., "Pause and listen for pollinators."     |
 
+## 8. Sign Document Format
+
+**⚠️ CRITICAL: All sign documents MUST follow this exact structure. No exceptions.**
+
+When creating sign documents, use this structure:
+
+### Visual Sign Mockup
+
+Create a visual representation of the sign using a bordered box that "looks" like the actual sign. Include:
+
+- **Title** (as it would appear on the sign)
+- **Subheading** (if applicable)  
+- **Body text** (as it would appear on the sign)
+- **Call to action** (if applicable)
+
+**❌ DO NOT USE:** "Sign Text", "Main Heading", "Body Text", "Call to Action" labels
+**✅ DO USE:** Direct content within the bordered visual mockup
+
+**Format Example:**
+
+```markdown
+---
+
+## [Title]
+
+*[Subheading]*
+
+[Body text content]
+
+**[Call to action]**
+
+---
+
+## Sign Type
+## Location  
+## Sign Goals
+## Design Notes
+```
+
+### Meta Information (after the visual)
+
+- **Sign Type** - Reading duration category (3-x-x, 3-30-x, 3-30-3, Vision)
+- **Location** - Where the sign will be placed
+- **Sign Goals** - What the sign is trying to accomplish
+- **Design Notes** - Implementation considerations
+
+**This format allows stakeholders to "take in" the sign before getting to the meta information about type, goals, and implementation details.**
+
+### ❌ FORBIDDEN FORMATS
+
+**Never use these outdated formats:**
+
+- "## Sign Text" sections
+- "### Main Heading" labels
+- "### Body Text" labels  
+- "### Call to Action" labels
+- Any labeled subsections within the visual mockup
+
+**All content must appear as it would on the actual sign, unlabeled, within the bordered visual mockup.**
+
 ## 8. Accessibility & Inclusivity
 
 - Provide QR codes linking to audio narration and translations.

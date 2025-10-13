@@ -9,16 +9,19 @@ Trails End Campground features diverse work spaces that break traditional zoning
 ## Farm Operations
 
 ### Field Work
+
 - Planting, tending, and harvesting
 - Soil preparation and maintenance
 - Irrigation and watering systems
 
 ### Processing Areas
+
 - Farm rinse and pack stations
 - Storage and cooling facilities
 - Equipment maintenance areas
 
 ### Seasonal Work
+
 - Harvest crews and temporary workers
 - Seasonal processing operations
 - Equipment storage and maintenance
@@ -26,16 +29,19 @@ Trails End Campground features diverse work spaces that break traditional zoning
 ## Business Operations
 
 ### Rock Solid Trail Building
+
 - Trail design and planning
 - Equipment storage and maintenance
 - Crew coordination and training
 
 ### The Genny (Gaslight General Store)
+
 - Retail operations
 - Farm stand sales
 - Customer service and education
 
 ### Remote Work Spaces
+
 - Work-from-home camp sites
 - Co-working areas
 - Meeting and collaboration spaces
@@ -43,16 +49,19 @@ Trails End Campground features diverse work spaces that break traditional zoning
 ## Support Services
 
 ### Mechanical Work
+
 - Equipment repair and maintenance
 - Vehicle maintenance
 - Tool and equipment storage
 
 ### Utilities and Maintenance
+
 - Solar system maintenance
 - Water system operations
 - Waste management and composting
 
 ### Construction and Development
+
 - Trail building and maintenance
 - Infrastructure improvements
 - Building and facility maintenance
@@ -60,6 +69,7 @@ Trails End Campground features diverse work spaces that break traditional zoning
 ## Integration with Other Areas
 
 Work spaces are intentionally integrated with:
+
 - **Cultivated Areas**: Direct connection between work and food production
 - **Residential Areas**: Many workers live on-site
 - **Wild Areas**: Work that supports and enhances natural areas
@@ -68,6 +78,7 @@ Work spaces are intentionally integrated with:
 ## Values
 
 The work spaces embody the vision of productive, meaningful work that:
+
 - Connects people to the land
 - Provides economic opportunity
 - Supports the community

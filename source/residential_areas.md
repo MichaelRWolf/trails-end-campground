@@ -9,16 +9,19 @@ Trails End Campground features a unique residential model that breaks traditiona
 ## Living Arrangements
 
 ### Weekend Recreation
+
 - Primitive tent camping sites
 - RV hookup sites
 - Group camping areas
 
 ### Seasonal Residents
+
 - Snowbirds (winter residents)
 - Summer seasonal workers
 - Long-term campers
 
 ### Work-From-Home Spaces
+
 - Camp sites with WiFi for remote workers
 - Co-working areas
 - Quiet zones for phone calls and meetings
@@ -26,16 +29,19 @@ Trails End Campground features a unique residential model that breaks traditiona
 ## Residential Infrastructure
 
 ### Camp Sites
+
 - Various sizes and configurations
 - Mix of primitive and improved sites
 - Proximity to farm fields and natural areas
 
 ### Seasonal Housing
+
 - 5th wheel and RV sites
 - Semi-permanent structures
 - Utilities and amenities
 
 ### Community Spaces
+
 - Shared gathering areas
 - Event spaces
 - Social interaction zones
@@ -43,6 +49,7 @@ Trails End Campground features a unique residential model that breaks traditiona
 ## Integration with Other Areas
 
 The residential areas are intentionally integrated with:
+
 - **Cultivated Areas**: Campers sleep next to where their food is grown
 - **Work Spaces**: Many residents work on-site or remotely
 - **Wild Areas**: Direct access to natural beauty and recreation
@@ -51,6 +58,7 @@ The residential areas are intentionally integrated with:
 ## Values
 
 This residential model embodies Aaron's vision of providing the essentials people need to thrive:
+
 - Clean water
 - Healthy food  
 - Safe living

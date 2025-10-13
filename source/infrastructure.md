@@ -12,7 +12,6 @@ Dramatic view to The Point and the walls and flower beds from many spots around 
 
 Many of the walls on The Point, around the lake, and the flower beds were created as part of a training exericise.  Years ago, Aaron needed a way to train workers at Rock Solid how to build walls.  They didn't know how.  They needed to know for a project elsewhere.  By building them here, they learned skills for use on other contracts.
 
-
 ## The Orchard Trail
 
 The terminus of a trail that goes to Copper Harbor after passing turn-off to Hunters Point and to the Copper Harbor Marina.
@@ -24,7 +23,6 @@ During Trail Fest on Labor Day, it is the site of the Junior Race where kids up 
 ## Solar Generator
 
 20-ish panels.  Total of XXX Watts. Capable of generating NN,000 kilowatt-hours on a good day.
-
 
 ## Pump House
 
