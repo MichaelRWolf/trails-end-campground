@@ -15,7 +15,7 @@ This project contains the planning and implementation details for creating inter
 ## Sign Prototypes
 
 - [Blueberry Field Sign](outputs/blueberry-field.md) - Sign for the blueberry field area
-- [The Genny Sign](outputs/the-genny.md) - Sign for The Genny (Gaslight General Store)
+- [Farm Stand Sign](outputs/farm-stand.md) - Sign for the farm stand at The Genny
 
 ## Back to Main
 

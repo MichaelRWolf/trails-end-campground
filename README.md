@@ -2,6 +2,30 @@
 
 This repository contains documentation files for the Trails End campground project.
 
+## Project - Vision Signs
+
+**For reviewers and stakeholders:** This is the main project currently in development.
+
+### Quick Start
+
+- **[Sign Artifacts](vision_signs/outputs/INDEX.md)** - Complete collection of all sign prototypes and templates
+- **[Project Overview](vision_signs/overview.md)** - Project goals, vision, and context
+- **[Implementation Plan](vision_signs/plan.md)** - Detailed project timeline and phases
+
+### Project Definition
+
+- **[Project Coordination](vision_signs/PROJECT.md)** - Complete project context and coordination
+- **[Style Guide](vision_signs/Signage_Style_Guide.md)** - Design standards and content guidelines
+
+### Source Information
+
+- **[Wild Areas](source/wild_areas.md)** - Natural environment, ecology, and wildlife
+- **[Cultivated Areas](source/cultivated_areas.md)** - Farm fields, orchards, and growing spaces
+- **[Infrastructure](source/infrastructure.md)** - Built systems, trails, and facilities
+- **[Residential Areas](source/residential_areas.md)** - Living spaces from tents to seasonal homes
+- **[Work Spaces](source/work_spaces.md)** - Productive areas from farm work to remote work
+- **[Recreational Areas](source/recreational_areas.md)** - Trails, events, and outdoor activities
+
 ## Setup
 
 After cloning this repository, install the pre-commit hooks:
