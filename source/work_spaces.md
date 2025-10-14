@@ -36,9 +36,28 @@ Trails End Campground features diverse work spaces that break traditional zoning
 
 ### The Genny (Gaslight General Store)
 
-- Retail operations
-- Farm stand sales
-- Customer service and education
+The Genny is a comprehensive general store located on the edge of Copper Harbor, serving both the 100 winter residents and summer tourists. They carry just about everything you'd need: dairy, meat, sodas, baking goods, groceries, bait, fishing supplies, souvenirs, coffee, liquor, firewood, ice, hardware, kitchen tools, and camping supplies.
+
+**Current Setup:**
+
+- **Indoor produce section**: The Genny's own produce area inside the store
+- **Location**: On Gratiot Street on the east edge of Copper Harbor
+
+**Business Relationship:**
+
+- The Genny is one business providing concession space to the farm
+- Farm operates the outdoor produce stand as a separate business
+
+### Farm Stand @ The Genny
+
+The farm operates a self-service farm stand on The Genny's porch using concession space provided by the general store.
+
+**Current Setup:**
+
+- **24/7 farm stand**: Refrigerator outside serving as self-service roadside stand
+- **POS terminal**: iPad-based point of sale system for purchases
+- **Current presentation**: Storage refrigerator with scribbled prices on bins - not great curb appeal
+- **Area for improvement**: Presentation and curb appeal need enhancement
 
 ### Remote Work Spaces
 
