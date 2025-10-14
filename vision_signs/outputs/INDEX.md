@@ -1,6 +1,6 @@
-# GEFN Sign Artifacts - Interview Demo
+# Vision Signs Project - Sign Artifacts
 
-*Good Enough For Now - Proof of Concept Signs for Aaron Interview*
+*Interpretive signage system for Trails End Campground*
 
 ## Quick Reference Guide
 
@@ -29,23 +29,21 @@
 - [Field Sign Template](field-template.md) - Template for individual field signs
 - [Orchard Sign Template](orchard-template.md) - Template for orchard area signs
 
-## Demo Flow for Aaron
+## Project Overview
 
-1. **Start with Vision** - Show [The Experiment](the-experiment.md) and [Big Vision](big-vision.md) signs
-2. **Show Welcome Experience** - [Farm](welcome-soil-soul.md) and [Campground](welcome-trails-end.md) welcome signs  
-3. **Demonstrate The Genny Experience** - [Farm Stand](farm-stand.md) sign transformation
-4. **Demonstrate Trail Integration** - [Beaver crossing](beaver-crossing.md) and [field signs](hope-field.md)
-5. **Explain Templates** - How we'll scale to all fields/orchards using [Field Template](field-template.md) and [Orchard Template](orchard-template.md)
-6. **Discuss Implementation** - [Style guide](../Signage_Style_Guide.md) and placement strategy
+This collection of sign artifacts represents the interpretive signage system for Trails End Campground. The signs are designed to tell the story of this unique place that combines primitive camping, working farm/orchard, and various businesses.
 
-## Key Questions for Aaron
+### Design Philosophy
 
-- Which signs resonate most with his vision?
-- What content needs adjustment or addition?
-- Are we missing any critical signs or locations?
-- How should we prioritize implementation?
-- What's the best way to tell the "Ecology 3.0" story?
+- **3-30-3 Rule**: Signs are categorized by reading duration (3 seconds, 30 seconds, 3 minutes)
+- **Accessibility**: Clear typography, high contrast, and sustainable materials
+- **Storytelling**: Each sign connects visitors to the land, history, and vision of the place
+- **Integration**: Signs work together to create a cohesive visitor experience
 
----
+### Implementation Strategy
 
-*These are proof-of-concept signs created for the Aaron interview. Content will be refined based on his feedback and additional information gathered.*
+- **Templates**: Scalable templates for field and orchard signs
+- **Style Guide**: Consistent design standards following National Park Service guidelines
+- **Placement**: Strategic positioning to enhance visitor experience and wayfinding
+
+For detailed project information, see [Project Overview](../overview.md) and [Implementation Plan](../plan.md).

@@ -209,6 +209,23 @@
 4. **Plan Phase 1** - Focus on highest-impact signs first
 5. **Schedule follow-up** - Plan next steps with Aaron
 
+## Demo Flow for Aaron
+
+1. **Start with Vision** - Show [The Experiment](outputs/the-experiment.md) and [Big Vision](outputs/big-vision.md) signs
+2. **Show Welcome Experience** - [Farm](outputs/welcome-soil-soul.md) and [Campground](outputs/welcome-trails-end.md) welcome signs  
+3. **Demonstrate The Genny Experience** - [Farm Stand](outputs/farm-stand.md) sign transformation
+4. **Demonstrate Trail Integration** - [Beaver crossing](outputs/beaver-crossing.md) and [field signs](outputs/hope-field.md)
+5. **Explain Templates** - How we'll scale to all fields/orchards using [Field Template](outputs/field-template.md) and [Orchard Template](outputs/orchard-template.md)
+6. **Discuss Implementation** - [Style guide](../Signage_Style_Guide.md) and placement strategy
+
+## Key Questions for Aaron
+
+- Which signs resonate most with his vision?
+- What content needs adjustment or addition?
+- Are we missing any critical signs or locations?
+- How should we prioritize implementation?
+- What's the best way to tell the "Ecology 3.0" story?
+
 ## Materials to Bring
 
 - [ ] Laptop with project files open
