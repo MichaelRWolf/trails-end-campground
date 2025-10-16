@@ -1,26 +1,21 @@
-# Field Sign Template
+# The Sign
+
+> ## [FIELD NAME]
+>
+> *[Catchy subheading about this field]*
+>
+> [Field description explaining what's grown here, why it's special, and how it fits into the farm vision. Include seasonal information and local growing details.]
+>
+> **Did you know?** [Local growing trivia specific to this field or region]
+>
+> **Fresh produce available at The Genny** → (with arrow)
 
 ---
 
-## [FIELD NAME]
+# The Design
 
-*[Catchy subheading about this field]*
-
-[Field description explaining what's grown here, why it's special, and how it fits into the farm vision. Include seasonal information and local growing details.]
-
-**Did you know?** [Local growing trivia specific to this field or region]
-
-**Fresh produce available at The Genny** → (with arrow)
-
----
-
-## Sign Type
-
-3-30-x (3-30 second reading)
-
-## Location
-
-[Specific field location] - Orchard Trail Stop [X]
+| **Sign Type** | 3-30-x (3-30 second reading) |
+| **Location** | [Specific field location] - Orchard Trail Stop [X] |
 
 ## Sign Goals
 

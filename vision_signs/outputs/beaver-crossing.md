@@ -1,30 +1,25 @@
-# Beaver Crossing Sign
+# The Sign
+
+> ## 🦫 Beaver Crossing 🦫
+>
+> **We are living in harmony with nature**
+>
+> *[Directional arrows pointing both ways]*
+>
+> ---
+>
+> ## 👤 Human Crossing 👤
+>
+> **We are living in harmony with nature**
+>
+> *[Directional arrows pointing both ways]*
 
 ---
 
-## 🦫 Beaver Crossing 🦫
+# The Design
 
-**We are living in harmony with nature**
-
-*[Directional arrows pointing both ways]*
-
----
-
-## 👤 Human Crossing 👤
-
-**We are living in harmony with nature**
-
-*[Directional arrows pointing both ways]*
-
----
-
-## Sign Type
-
-3-x-x (3 second reading)
-
-## Location
-
-Orchard Trail - where beaver trails cross human trails
+| **Sign Type** | 3-x-x (3 second reading) |
+| **Location** | Orchard Trail - where beaver trails cross human trails |
 
 ## Sign Goals
 

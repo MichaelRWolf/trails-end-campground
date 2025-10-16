@@ -1,26 +1,21 @@
-# Blackberry Trellises Sign
+# The Sign
+
+> ## Blackberry Trellises
+>
+> *Growing Sweet Success in the North*
+>
+> These trellised blackberries thrive in our northern climate through careful variety selection and innovative growing techniques. The trellis system allows for better air circulation, easier harvesting, and protection from wildlife - all while maximizing the limited growing season.
+>
+> **Local Growing Trivia:** [SPECIFIC GROWING DETAILS TO BE ADDED]
+>
+> **Pick up fresh berries at The Genny** → (with arrow)
 
 ---
 
-## Blackberry Trellises
+# The Design
 
-*Growing Sweet Success in the North*
-
-These trellised blackberries thrive in our northern climate through careful variety selection and innovative growing techniques. The trellis system allows for better air circulation, easier harvesting, and protection from wildlife - all while maximizing the limited growing season.
-
-**Local Growing Trivia:** [SPECIFIC GROWING DETAILS TO BE ADDED]
-
-**Pick up fresh berries at The Genny** → (with arrow)
-
----
-
-## Sign Type
-
-3-30-x (3-30 second reading)
-
-## Location
-
-Blackberry Patch - Orchard Trail Stop 4
+| **Sign Type** | 3-30-x (3-30 second reading) |
+| **Location** | Blackberry Patch - Orchard Trail Stop 4 |
 
 ## Sign Goals
 

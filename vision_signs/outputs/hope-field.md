@@ -1,26 +1,21 @@
-# Hope Field Sign
+# The Sign
+
+> ## Hope Field
+>
+> *Growing Tomorrow's Harvest Today*
+>
+> This field represents our commitment to sustainable agriculture and community food security. Here we grow [CROPS TO BE DETERMINED] using organic methods that work with nature, not against it. The name "Hope" reflects our vision of a future where local food systems thrive.
+>
+> **Did you know?** [LOCAL GROWING TRIVIA TO BE ADDED]
+>
+> **Fresh produce available at The Genny** → (with arrow)
 
 ---
 
-## Hope Field
+# The Design
 
-*Growing Tomorrow's Harvest Today*
-
-This field represents our commitment to sustainable agriculture and community food security. Here we grow [CROPS TO BE DETERMINED] using organic methods that work with nature, not against it. The name "Hope" reflects our vision of a future where local food systems thrive.
-
-**Did you know?** [LOCAL GROWING TRIVIA TO BE ADDED]
-
-**Fresh produce available at The Genny** → (with arrow)
-
----
-
-## Sign Type
-
-3-30-x (3-30 second reading)
-
-## Location
-
-Hope Field - Orchard Trail Stop 9
+| **Sign Type** | 3-30-x (3-30 second reading) |
+| **Location** | Hope Field - Orchard Trail Stop 9 |
 
 ## Sign Goals
 

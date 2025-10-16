@@ -1,22 +1,19 @@
-# Blueberry Field Sign
+# The Sign
+
+> ## Sleep Next to Your Dinner
+>
+> *Where Camping Meets Farming*
+>
+> These blueberry bushes feed both the local wildlife and your family. Pick up fresh berries and other farm produce at The Genny, just a short walk away. You're not just camping - you're part of a working farm that grows food for the community.
+>
+> **Visit The Genny** → (with arrow pointing direction)
 
 ---
 
-## Sleep Next to Your Dinner
+# The Design
 
-These blueberry bushes feed both the local wildlife and your family. Pick up fresh berries and other farm produce at The Genny, just a short walk away. You're not just camping - you're part of a working farm that grows food for the community.
-
-**Visit The Genny** → (with arrow pointing direction)
-
----
-
-## Sign Type
-
-3-30-x (3-30 second reading)
-
-## Location
-
-Blueberry Field - Trails End Campground
+| **Sign Type** | 3-30-x (3-30 second reading) |
+| **Location** | Blueberry Field - Trails End Campground |
 
 ## Sign Goals
 

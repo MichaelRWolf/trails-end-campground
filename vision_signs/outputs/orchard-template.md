@@ -1,26 +1,21 @@
-# Orchard Sign Template
+# The Sign
+
+> ## [ORCHARD AREA NAME]
+>
+> *[Catchy subheading about this orchard area]*
+>
+> [Orchard description explaining what fruit trees/vines are grown here, varieties, growing methods, and harvest seasons. Include information about the orchard's role in the farm ecosystem.]
+>
+> **Local Growing Trivia:** [Specific growing details about fruit production in this region]
+>
+> **Fresh fruit available at The Genny** → (with arrow)
 
 ---
 
-## [ORCHARD AREA NAME]
+# The Design
 
-*[Catchy subheading about this orchard area]*
-
-[Orchard description explaining what fruit trees/vines are grown here, varieties, growing methods, and harvest seasons. Include information about the orchard's role in the farm ecosystem.]
-
-**Local Growing Trivia:** [Specific growing details about fruit production in this region]
-
-**Fresh fruit available at The Genny** → (with arrow)
-
----
-
-## Sign Type
-
-3-30-x (3-30 second reading)
-
-## Location
-
-[Specific orchard location] - Orchard Trail Stop [X]
+| **Sign Type** | 3-30-x (3-30 second reading) |
+| **Location** | [Specific orchard location] - Orchard Trail Stop [X] |
 
 ## Sign Goals
 

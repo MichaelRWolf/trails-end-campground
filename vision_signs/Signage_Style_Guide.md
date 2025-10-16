@@ -66,11 +66,11 @@ Use the **3-30-3 Rule**: communicate something meaningful in 3 seconds, reward c
 
 **⚠️ CRITICAL: All sign documents MUST follow this exact structure. No exceptions.**
 
-When creating sign documents, use this structure:
+When creating sign documents, use this two-section structure:
 
-### Visual Sign Mockup
+### Section 1: The Sign (Public-Facing Content)
 
-Create a visual representation of the sign using a bordered box that "looks" like the actual sign. Include:
+The sign content should be presented in a blockquote to visually distinguish it as "what the public reads." Include:
 
 - **Title** (as it would appear on the sign)
 - **Subheading** (if applicable)  
@@ -78,37 +78,49 @@ Create a visual representation of the sign using a bordered box that "looks" lik
 - **Call to action** (if applicable)
 
 **❌ DO NOT USE:** "Sign Text", "Main Heading", "Body Text", "Call to Action" labels
-**✅ DO USE:** Direct content within the bordered visual mockup
+**✅ DO USE:** Direct content within the blockquote
+
+### Section 2: The Design (Designer Specifications)
+
+After the sign content, provide meta information for designers and implementers:
+
+- **Sign Type & Location** - Presented in a table
+- **Sign Goals** - Bulleted list in a subsection
+- **Design Notes** - Bulleted list in a subsection
 
 **Format Example:**
 
 ```markdown
+# The Sign
+
+> [Title]
+> -- *[Subheading]*
+>
+> [Body text content]
+>
+> **[Call to action]**
+
 ---
 
-## [Title]
-
-*[Subheading]*
-
-[Body text content]
-
-**[Call to action]**
-
 ---
 
-## Sign Type
-## Location  
+# The Design
+
+| **Sign Type** | [3-x-x / 3-30-x / 3-30-3 / Vision] |
+| **Location** | [Where the sign will be placed] |
+
 ## Sign Goals
+
+- [Goal 1]
+- [Goal 2]
+
 ## Design Notes
+
+- [Note 1]
+- [Note 2]
 ```
 
-### Meta Information (after the visual)
-
-- **Sign Type** - Reading duration category (3-x-x, 3-30-x, 3-30-3, Vision)
-- **Location** - Where the sign will be placed
-- **Sign Goals** - What the sign is trying to accomplish
-- **Design Notes** - Implementation considerations
-
-**This format allows stakeholders to "take in" the sign before getting to the meta information about type, goals, and implementation details.**
+**This format clearly separates the public experience ("The Sign") from the designer specifications ("The Design").**
 
 ### ❌ FORBIDDEN FORMATS
 
@@ -118,24 +130,23 @@ Create a visual representation of the sign using a bordered box that "looks" lik
 - "### Main Heading" labels
 - "### Body Text" labels  
 - "### Call to Action" labels
-- Any labeled subsections within the visual mockup
+- Any labeled subsections within the sign content
+- Horizontal rules (---) around the sign content instead of blockquote
 
-**All content must appear as it would on the actual sign, unlabeled, within the bordered visual mockup.**
-
-## 8. Accessibility & Inclusivity
+## 9. Accessibility & Inclusivity
 
 - Provide QR codes linking to audio narration and translations.
 - Ensure fonts are ≥ 18 pt equivalent at standard viewing distance.
 - Use symbols and plain language for key concepts.
 - Avoid jargon; favor storytelling and active voice.
 
-## 9. Review & Testing
+## 10. Review & Testing
 
 - **Prototype:** Create a full-scale mock-up for readability and glare testing.
 - **Field Review:** Check sight lines, visitor approach, and safety.
 - **Feedback:** Pilot with at least 3 diverse readers; ask if message was clear and engaging.
 
-## 10. Maintenance Schedule
+## 11. Maintenance Schedule
 
 | Interval   | Task                                   |
 |------------|----------------------------------------|
@@ -144,7 +155,7 @@ Create a visual representation of the sign using a bordered box that "looks" lik
 | 5 Years    | Review for factual or thematic updates |
 | 7–10 Years | Replace or redesign panel              |
 
-## 11. Example Sign Concepts
+## 12. Example Sign Concepts
 
 | Theme                    | Location         | Suggested Media                               |
 |--------------------------|------------------|-----------------------------------------------|
@@ -152,7 +163,7 @@ Create a visual representation of the sign using a bordered box that "looks" lik
 | The Power of Pollinators | Meadow Trail     | Photo collage + soundscape QR                 |
 | From Rain to River       | Trails End       | Map + short poem + drainage sketch            |
 
-## 12. Road-side Historical Signs
+## 13. Road-side Historical Signs
 
 | State                        | Goal                                                                      | Words   | Reading Time (typical)           |
 |------------------------------|---------------------------------------------------------------------------|---------|----------------------------------|
@@ -160,7 +171,7 @@ Create a visual representation of the sign using a bordered box that "looks" lik
 | **NC (America 250 variant)** | Support commemorative or educational stops where visitors linger          | 40–60   | ~4–6 seconds (slow or parked)    |
 | **Virginia**                 | Encourage drivers to pull over or walk up to read full historical context | 100–120 | ~7–9 seconds (stationary reader) |
 
-## 13. References & Models
+## 14. References & Models
 
 - National Park Service, *Wayside Exhibits: A Guide* (2018)
 - Chesapeake Crossroads Heritage Area, *Interpretive Signage Guidelines* (2020)
