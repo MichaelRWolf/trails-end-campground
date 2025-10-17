@@ -114,8 +114,11 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 
 ### 3. Stitch Raw Photos into Video
 
-- [ ] Analyze images and generate characteristic report (resolution, orientation, etc.)
+- [x] Analyze images and generate characteristic report (resolution, orientation, etc.)
 - [ ] **Milestone: Generate video from 3 images with very simple transition**
+  - [ ] Install FFmpeg
+  - [ ] Test `stitch_photos.py` script with 3 sample images
+  - [ ] Verify video output plays correctly
 - [ ] Implement nicer transition between images
 - [ ] Add longer pause on final image
 - [ ] Add longer pause on first image
@@ -131,10 +134,24 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 
 ### Dependencies
 
+**Primary Tool**: FFmpeg
+
+- Install via: `brew install ffmpeg` (macOS) or download from <https://ffmpeg.org/download.html>
+
+**Python Scripts**:
+
 ```python
-moviepy
-pillow
+pillow  # For image analysis
 ```
+
+**Script Requirements**:
+
+- `stitch_photos.py` - Command-line video creation tool
+  - Args: image files (positional, sequential order)
+  - `--image-duration` (default: 500ms)
+  - `--transition-duration` (default: 0ms)
+  - `--transition-type` (default: none, options: none/fade/slide)
+  - `--output` (default: output.mp4)
 
 ### Key Algorithms
 
@@ -163,3 +180,5 @@ solar_panel_relocation_project/
 
 1. ✅ Analyze image characteristics (resolution, orientation, etc.)
 2. **Milestone: Generate video from 3 images with very simple transition**
+   - Install FFmpeg: `brew install ffmpeg`
+   - Test: `python3 stitch_photos.py set_1/IMG_2972.jpeg set_2/IMG_2996.jpeg set_1/IMG_2978.jpeg --image-duration 1000 --output test_video.mp4`
