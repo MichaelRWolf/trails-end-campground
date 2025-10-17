@@ -40,8 +40,8 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 - [x] Create directory structure:
 
   ```text
-  set_1/             # 22 JPEG images (IMG_2972 - IMG_2995)
-  set_2/             # 8 JPEG images (IMG_2996 - IMG_3004)
+  outside_panels/    # 21 JPEG images (IMG_2972 - IMG_2995) - Portrait orientation
+  inside_panels/     # 8 JPEG images (IMG_2996 - IMG_3004) - Landscape orientation
   ```
 
 ### 2. Choose tools
@@ -60,21 +60,23 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 - Verified orientation consistency within sets
 - Results validated through manual inspection
 
-**Set 1**: 21 images
+**Outside Panels**: 21 images
 
 - ✅ All same size: 3024x4032 (portrait, 3:4 aspect ratio)
 - ✅ All JPEG format
 - ✅ Sequential naming (IMG_2972-IMG_2995)
 - ✅ Consistent framing within set
+- ✅ Shows external view of solar panel removal
 
-**Set 2**: 8 images  
+**Inside Panels**: 8 images  
 
 - ✅ All same size: 4032x3024 (landscape, 4:3 aspect ratio)
 - ✅ All JPEG format
 - ✅ Sequential naming (IMG_2996-IMG_3004)
 - ✅ Consistent framing within set
+- ✅ Shows internal view of solar panel removal
 
-**Key Finding**: Each set has consistent orientation internally (Set 1: portrait, Set 2: landscape)
+**Key Finding**: Each set has consistent orientation internally (Outside: portrait, Inside: landscape)
 
 #### Tool Candidates (FOR REVIEW)
 
@@ -115,14 +117,24 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 ### 3. Stitch Raw Photos into Video
 
 - [x] Analyze images and generate characteristic report (resolution, orientation, etc.)
-- [ ] **Milestone: Generate video from 3 images with very simple transition**
-  - [ ] Install FFmpeg
-  - [ ] Test `stitch_photos.py` script with 3 sample images
-  - [ ] Verify video output plays correctly
+- [x] **Milestone: Generate video from 3 images with very simple transition**
+  - [x] Install FFmpeg
+  - [x] Test `stitch_photos.py` script with 3 sample images
+  - [x] Verify video output plays correctly
+- [x] **Create full videos for both sets**
+  - [x] `outside_panels_full_video.mp4` (21 images, 10.92s, 62.5MB)
+  - [x] `inside_panels_full_video.mp4` (8 images, 4.16s, 23.0MB)
 - [ ] Implement nicer transition between images
 - [ ] Add longer pause on final image
 - [ ] Add longer pause on first image
 - [ ] Add fade after final image
+
+### 99. Maybe, some day
+
+- [ ] **Combine both sets into unified time-lapse**
+  - Handle orientation differences (portrait vs landscape)
+  - Create smooth transitions between sets
+  - Add fade effects and timing adjustments
 
 ### 4. Align Images
 
@@ -172,13 +184,20 @@ pillow  # For image analysis
 ```text
 solar_panel_relocation_project/
 ├── plan.md
-├── set_1/           # 22 JPEG images (IMG_2972 - IMG_2995)
-└── set_2/           # 8 JPEG images (IMG_2996 - IMG_3004)
+├── stitch_photos.py
+├── analyze_traits.py
+├── outside_panels/           # 21 JPEG images (IMG_2972 - IMG_2995) - Portrait
+├── inside_panels/            # 8 JPEG images (IMG_2996 - IMG_3004) - Landscape
+├── outside_panels_full_video.mp4    # Complete outside view time-lapse
+└── inside_panels_full_video.mp4     # Complete inside view time-lapse
 ```
 
 ## Next Steps
 
 1. ✅ Analyze image characteristics (resolution, orientation, etc.)
-2. **Milestone: Generate video from 3 images with very simple transition**
-   - Install FFmpeg: `brew install ffmpeg`
-   - Test: `python3 stitch_photos.py set_1/IMG_2972.jpeg set_2/IMG_2996.jpeg set_1/IMG_2978.jpeg --image-duration 1000 --output test_video.mp4`
+2. ✅ **Milestone: Generate video from 3 images with very simple transition**
+3. ✅ **Create full videos for both sets**
+4. **Next milestone: Enhance individual videos**
+   - Add transitions between images
+   - Implement timing adjustments
+   - Add fade effects
