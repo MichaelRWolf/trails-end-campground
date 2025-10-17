@@ -46,9 +46,71 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 
 ### 2. Choose tools
 
-- [ ] Anayze photos for minimal traits that are necessary to choose very simple work flow.
-- [ ] Suggest tools
-- [ ] Select tools.
+- [x] Analyze photos for minimal traits that are necessary to choose very simple work flow.
+  - Results documented in "Image Characteristics Analysis" section below
+- [x] Suggest tools
+- [x] Select tools.
+
+#### Image Characteristics Analysis (COMPLETED)
+
+**Analysis Method**: [`analyze_traits.py`](file:./analyze_traits.py) script + manual verification
+
+- Script examined file sizes, dimensions, and formats
+- Checked naming patterns and sequencing
+- Verified orientation consistency within sets
+- Results validated through manual inspection
+
+**Set 1**: 21 images
+
+- ✅ All same size: 3024x4032 (portrait, 3:4 aspect ratio)
+- ✅ All JPEG format
+- ✅ Sequential naming (IMG_2972-IMG_2995)
+- ✅ Consistent framing within set
+
+**Set 2**: 8 images  
+
+- ✅ All same size: 4032x3024 (landscape, 4:3 aspect ratio)
+- ✅ All JPEG format
+- ✅ Sequential naming (IMG_2996-IMG_3004)
+- ✅ Consistent framing within set
+
+**Key Finding**: Each set has consistent orientation internally (Set 1: portrait, Set 2: landscape)
+
+#### Tool Candidates (FOR REVIEW)
+
+**Option 1: Python + MoviePy**
+
+- Pros: Handles mixed orientations automatically, good for video creation, flexible
+- Cons: Requires Python environment setup
+- Best for: Full control over transitions and effects
+
+**Option 2: FFmpeg (command line)**
+
+- Pros: Very fast, handles many formats, no dependencies
+- Cons: Command-line only, less control over transitions
+- Best for: Simple, fast video creation
+
+**Option 3: ImageMagick + FFmpeg**
+
+- Pros: Powerful image processing + video creation
+- Cons: More complex workflow, multiple tools
+- Best for: Advanced image manipulation needs
+
+**Option 4: Online tools (Canva, etc.)**
+
+- Pros: No setup required, user-friendly
+- Cons: Limited control, file size limits, internet required
+- Best for: Quick prototypes
+
+**RECOMMENDATION**: Start with Option 2 (FFmpeg) for simplest approach, then move to Option 1 (Python + MoviePy) if more control needed.
+
+**Tool Selection (COMPLETED)**
+
+**Selected**: Option 2 (FFmpeg) → Option 1 (Python + MoviePy) if needed
+
+- Start with FFmpeg for simplest approach to get basic video working
+- Move to Python + MoviePy if more control over transitions/effects needed
+- Keeps options 1-4 available for future reference
 
 ### 3. Stitch Raw Photos into Video
 
@@ -69,7 +131,10 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 
 ### Dependencies
 
-TBD
+```python
+moviepy
+pillow
+```
 
 ### Key Algorithms
 
@@ -96,5 +161,5 @@ solar_panel_relocation_project/
 
 ## Next Steps
 
-1. Analyze image characteristics (resolution, orientation, etc.)
+1. ✅ Analyze image characteristics (resolution, orientation, etc.)
 2. **Milestone: Generate video from 3 images with very simple transition**
