@@ -114,6 +114,12 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 - Move to Python + MoviePy if more control over transitions/effects needed
 - Keeps options 1-4 available for future reference
 
+**UPDATE**: Tried Option 1 (Python + MoviePy) - ABANDONED due to jankiness
+
+- MoviePy script created and tested successfully
+- However, the output quality and performance was unsatisfactory
+- Moving to explore Option 3 (ImageMagick + FFmpeg) for manual point selection workflow
+
 ### 3. Stitch Raw Photos into Video
 
 - [x] Analyze images and generate characteristic report (resolution, orientation, etc.)
@@ -139,6 +145,7 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 ### 4. Align Images
 
 - [ ] Pre-process images in a set to create aligned versions (e.g. image_1234.jpeg → aligned_image_1234.jpeg)
+- [ ] Create aligned images in `{source_dir}/aligned/` subdirectories
 - [ ] Review images in file viewer before proceeding
 - [ ] Use previously created script to stitch these aligned images together
 
@@ -165,6 +172,14 @@ pillow  # For image analysis
   - `--transition-type` (default: none, options: none/fade/slide)
   - `--output` (default: output.mp4)
 
+- `align_images.py` - Command-line image alignment tool
+  - Args: image files (positional, sequential order)
+  - `--output-directory` / `-o` (required) - Output directory for aligned images
+  - Creates aligned versions with 'aligned_' prefix to avoid overwriting originals
+  - Uses ORB feature detection and homography transformation
+  - First image becomes reference, others aligned to it
+  - **Naming convention**: Use `{source_dir}/aligned/` for output (e.g., `outside_panels/aligned/`)
+
 ### Key Algorithms
 
 1. **Simple Video Creation**: Frame-by-frame assembly with timing control
@@ -186,8 +201,11 @@ solar_panel_relocation_project/
 ├── plan.md
 ├── stitch_photos.py
 ├── analyze_traits.py
+├── align_images.py
 ├── outside_panels/           # 21 JPEG images (IMG_2972 - IMG_2995) - Portrait
+│   └── aligned/              # Aligned versions (when created)
 ├── inside_panels/            # 8 JPEG images (IMG_2996 - IMG_3004) - Landscape
+│   └── aligned/              # Aligned versions (when created)
 ├── outside_panels_full_video.mp4    # Complete outside view time-lapse
 └── inside_panels_full_video.mp4     # Complete inside view time-lapse
 ```
