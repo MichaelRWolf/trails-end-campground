@@ -1,0 +1,9 @@
+Time_ka,LakeLevel_m,LandElevation_m,NetWaterline_m,Interpretation
+-10.0,-60,-20.0,-40.0,Lake far below today; land still strongly depressed but higher than lake. Site well above water.
+-9.5,-20,-15.0,-5.0,"Lake rises fast, land rebounds fast. Shoreline approaches the site."
+-8.5,-40,-8.0,-32.0,Outlet drop lowers lake again; land still rebounding. Site stands high and dry.
+-8.0,0,-5.0,5.0,"Rapid transgression: lake at ~modern, land still 5 m low. Site effectively at/below water."
+-4.5,5,-2.0,7.0,"Local Nipissing highstand: lake ~5 m above today, land still ~2 m low. Site flooded; forms paleoshoreline ridge."
+-3.5,2,-1.0,3.0,"Lake falling, land catching up. Site emerging above water."
+-2.0,0,-0.5,0.5,"Lake ~modern, land ~0.5 m low. Nearly present-day configuration."
+0.0,0,0.0,0.0,Today reference point.
