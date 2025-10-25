@@ -12,16 +12,16 @@
 
 ## Table (story form)
 
-| Time (ka) | LakeLevel_m | LandElevation_m | NetWaterline_m | Interpretation                                                                                                   |
-|-----------|-------------|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| -10.0     | -60         | -20             | -40            | Lake far below today; land still strongly depressed but higher than lake. Site well above water.                 |
-| -9.5      | -20         | -15             | -5             | Lake rises fast, land rebounds fast. Shoreline approaches the site.                                              |
-| -8.5      | -40         | -8              | -32            | Outlet drop lowers lake again; land still rebounding. Site stands high and dry.                                  |
-| -8.0      | 0           | -5              | 5              | Rapid transgression: lake at ~modern, land still 5 m low. Site effectively at/below water.                       |
-| -4.5      | 5           | -2              | 7              | Local Nipissing highstand: lake ~5 m above today, land still ~2 m low. Site flooded; forms paleoshoreline ridge. |
-| -3.5      | 2           | -1              | 3              | Lake falling, land catching up. Site emerging above water.                                                       |
-| -2.0      | 0           | -0.5            | 0.5            | Lake ~modern, land ~0.5 m low. Nearly present-day configuration.                                                 |
-| 0.0       | 0           | 0               | 0              | Today reference point.                                                                                           |
+| Time (ka) | LakeLevel_m | LandElevation_m | NetWaterline_m | Interpretation                                                                                       |
+|-----------|-------------|-----------------|----------------|------------------------------------------------------------------------------------------------------|
+| -10.0     | -60         | -20             | -40            | Lake far below today; land still strongly depressed but higher than lake. Shoreline well below site. |
+| -9.5      | -20         | -15             | -5             | Lake rises fast, land rebounds fast. Shoreline approaches the site.                                  |
+| -8.5      | -40         | -8              | -32            | Outlet drop lowers lake again; land still rebounding. Shoreline well below site.                     |
+| -8.0      | 0           | -5              | 5              | Rapid transgression: lake at ~modern, land still 5 m low. Shoreline at/above site.                   |
+| -4.5      | 5           | -2              | 7              | Local Nipissing highstand: lake ~5 m above today, land still ~2 m low. Shoreline well above site.    |
+| -3.5      | 2           | -1              | 3              | Lake falling, land catching up. Shoreline above site.                                                |
+| -2.0      | 0           | -0.5            | 0.5            | Lake ~modern, land ~0.5 m low. Shoreline slightly above site.                                        |
+| 0.0       | 0           | 0               | 0              | Today reference point. Shoreline at site level.                                                      |
 
 ## Google Sheet
 
