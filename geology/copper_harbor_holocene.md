@@ -26,3 +26,23 @@
 ## Google Sheet
 
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3w9vGGGwziYL_JlI85qNs-CEVNtKKOjWlsGf2qL1yHq_Z-UAIy0xXzQSgvlX9PjtBMpQ5bzR4iXNF/pubchart?oid=1206043460&format=interactive>
+
+![image-20251024203320988](/Users/michael/Library/Application Support/typora-user-images/image-20251024203320988.png)
+
+## Google Maps
+
+<https://www.google.com/maps/place/Whitefish+Point,+MI+49768/@46.7351869,-85.103796,14597m/data=!3m1!1e3!4m6!3m5!1s0x4d484a6e32720f39:0x382ca3a47deea5b4!8m2!3d46.7658572!4d-84.9653567!16s%2Fm%2F049z_4j?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D>
+
+![image-20251024203526268](/Users/michael/Library/Application Support/typora-user-images/image-20251024203526268.png)
+
+<https://www.google.com/maps/place/Whitefish+Point,+MI+49768/@46.7624682,-84.9950116,4678m/data=!3m1!1e3!4m6!3m5!1s0x4d484a6e32720f39:0x382ca3a47deea5b4!8m2!3d46.7658572!4d-84.9653567!16s%2Fm%2F049z_4j?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D>
+
+![image-20251024203717234](/Users/michael/Library/Application Support/typora-user-images/image-20251024203717234.png)
+
+<https://www.google.com/maps/place/Whitefish+Point,+MI+49768/@46.4264756,-86.8438177,4962m/data=!3m1!1e3!4m6!3m5!1s0x4d484a6e32720f39:0x382ca3a47deea5b4!8m2!3d46.7658572!4d-84.9653567!16s%2Fm%2F049z_4j?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D>
+
+![image-20251024203918009](/Users/michael/Library/Application Support/typora-user-images/image-20251024203918009.png)
+
+<https://www.google.com/maps/place/Whitefish+Point,+MI+49768/@46.4319437,-86.8584474,2643m/data=!3m1!1e3!4m6!3m5!1s0x4d484a6e32720f39:0x382ca3a47deea5b4!8m2!3d46.7658572!4d-84.9653567!16s%2Fm%2F049z_4j?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D>
+
+![image-20251024204111881](/Users/michael/Library/Application Support/typora-user-images/image-20251024204111881.png)
