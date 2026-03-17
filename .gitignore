@@ -52,3 +52,9 @@ build/
 # Cache directories
 .cache/
 .parcel-cache/
+
+# Large video files — store externally, not in git
+*.mov
+*.mp4
+*.avi
+*.mkv
