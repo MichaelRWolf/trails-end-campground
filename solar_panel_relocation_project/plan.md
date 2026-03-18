@@ -128,8 +128,8 @@ Create a jaggly time-lapse video by stitching together still photos from two set
   - [x] Test `stitch_photos.py` script with 3 sample images
   - [x] Verify video output plays correctly
 - [x] **Create full videos for both sets**
-  - [x] `outside_panels_full_video.mp4` (21 images, 10.92s, 62.5MB)
-  - [x] `inside_panels_full_video.mp4` (8 images, 4.16s, 23.0MB)
+  - [x] [`outside_panels_full_video.mp4`](../videos.md) (21 images, 10.92s, 62.5MB)
+  - [x] [`inside_panels_full_video.mp4`](../videos.md) (8 images, 4.16s, 23.0MB)
 - [ ] Implement nicer transition between images
 - [ ] Add longer pause on final image
 - [ ] Add longer pause on first image
@@ -206,8 +206,8 @@ solar_panel_relocation_project/
 │   └── aligned/              # Aligned versions (when created)
 ├── inside_panels/            # 8 JPEG images (IMG_2996 - IMG_3004) - Landscape
 │   └── aligned/              # Aligned versions (when created)
-├── outside_panels_full_video.mp4    # Complete outside view time-lapse
-└── inside_panels_full_video.mp4     # Complete inside view time-lapse
+├── outside_panels_full_video.mp4    # Complete outside view time-lapse (see ../videos.md)
+└── inside_panels_full_video.mp4     # Complete inside view time-lapse (see ../videos.md)
 ```
 
 ## Next Steps
