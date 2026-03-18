@@ -1,5 +1,19 @@
 # Dawn Testimonials 2025-10-09
 
+## Recording Info
+
+- **Original file:** Dawn_Testimonials_2025-10-09.mov
+- **Recorded:** 2025-10-09 at 12:45:53 EDT
+- **Device:** iPhone SE (3rd generation), iOS 18.6.2
+- **Duration:** 3m 45s (225.6 seconds)
+- **File size:** 226 MB
+- **Container:** QuickTime (.mov)
+- **Video:** HEVC (H.265), 1920×1080, ~29.7 fps, 7.7 Mbps
+- **Audio:** AAC stereo, 44.1 kHz, 200 kbps
+- **GPS:** 47.4724°N, 87.9132°W (Copper Harbor area), ~200m elevation
+- **Transcript generated:** faster-whisper `small` model, local CPU, no cloud processing
+- **Note for audio editor:** Stereo AAC is clean enough for clip extraction. Timestamps in the Transcription section below correspond to the original .mov timeline. No noise reduction applied — original room tone preserved.
+
 ## Highlights
 
 - Don Robertson, a mountain biker from Brevard, NC, discovered Trails End while searching for campsites near Copper Harbor
