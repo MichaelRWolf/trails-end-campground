@@ -53,7 +53,7 @@ Create a jaggly time-lapse video by stitching together still photos from two set
 
 #### Image Characteristics Analysis (COMPLETED)
 
-**Analysis Method**: [`analyze_traits.py`](file:./analyze_traits.py) script + manual verification
+**Analysis Method**: [`analyze_traits.py`](file:analyze_traits.py) script + manual verification
 
 - Script examined file sizes, dimensions, and formats
 - Checked naming patterns and sequencing
