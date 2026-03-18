@@ -14,7 +14,7 @@
 
 ---
 
-# The Design
+## The Design
 
 | **Sign Type** | 3-30-3 (3-30 second to 3 minute reading) |
 | **Location** | The Genny's porch - 24/7 self-service farm stand (concession space provided by The Genny) |

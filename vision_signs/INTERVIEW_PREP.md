@@ -216,7 +216,7 @@
 3. **Demonstrate Farm Stand Transformation** - [Farm Stand @ The Genny](outputs/farm-stand.md) - how signage elevates presentation
 4. **Demonstrate Trail Integration** - [Beaver crossing](outputs/beaver-crossing.md) and [field signs](outputs/hope-field.md)
 5. **Explain Templates** - How we'll scale to all fields/orchards using [Field Template](outputs/field-template.md) and [Orchard Template](outputs/orchard-template.md)
-6. **Discuss Implementation** - [Style guide](../Signage_Style_Guide.md) and placement strategy
+6. **Discuss Implementation** - [Style guide](Signage_Style_Guide.md) and placement strategy
 
 ## Key Questions for Aaron
 

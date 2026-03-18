@@ -28,7 +28,7 @@
 
 ---
 
-# The Design
+## The Design
 
 | **Sign Type** | Vision (Comprehensive) |
 | **Location** | Pump House - Central location for comprehensive overview |

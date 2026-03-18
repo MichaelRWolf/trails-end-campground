@@ -17,8 +17,7 @@ This project creates interpretive signage for Trails End Campground to tell the 
 
 - [overview.md](overview.md) - Project overview and goals
 - [plan.md](plan.md) - Detailed implementation plan
-- [STYLE.md](STYLE.md) - Signage style guidelines (NC/VA historical signs)
-- [Interpretive_Signage_Style_Guide.md](Interpretive_Signage_Style_Guide.md) - Additional style guide
+- [Signage_Style_Guide.md](Signage_Style_Guide.md) - Signage style guidelines
 
 ## Sign Prototypes
 

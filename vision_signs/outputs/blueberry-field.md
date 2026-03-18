@@ -10,7 +10,7 @@
 
 ---
 
-# The Design
+## The Design
 
 | **Sign Type** | 3-30-x (3-30 second reading) |
 | **Location** | Blueberry Field - Trails End Campground |

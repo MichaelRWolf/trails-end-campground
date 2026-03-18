@@ -19,7 +19,7 @@
 
 ---
 
-# The Design
+## The Design
 
 | **Sign Type** | 3-30-3 (3-30 second to 3 minute reading) |
 | **Location** | Welcome Board - Main entrance area |

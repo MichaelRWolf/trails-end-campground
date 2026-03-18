@@ -24,7 +24,7 @@
 
 ---
 
-# The Design
+## The Design
 
 | **Sign Type** | Vision (Comprehensive) |
 | **Location** | Near Orchard Trail beginning (not at welcome board) |

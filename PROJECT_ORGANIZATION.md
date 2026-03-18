@@ -1,7 +1,8 @@
 # Project Organization
 
 ## Structure
-```
+
+```text
 source/            # All background information (shared)
   wild_areas.md           # Natural environment
   cultivated_areas.md     # Agricultural areas
@@ -14,6 +15,7 @@ output/            # Deliverables (project-specific)
 ```
 
 ## Rules
+
 - **Max 3 levels**: `project/output/file.md`
 - **Lowercase with hyphens**: `blueberry-field.md`
 - **Cross-area links**: `source/wild_areas.md`

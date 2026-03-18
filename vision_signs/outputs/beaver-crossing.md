@@ -16,7 +16,7 @@
 
 ---
 
-# The Design
+## The Design
 
 | **Sign Type** | 3-x-x (3 second reading) |
 | **Location** | Orchard Trail - where beaver trails cross human trails |
