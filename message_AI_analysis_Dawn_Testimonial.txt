@@ -1,0 +1,24 @@
+RE: AI analysis of Interview with Dawn Robertson
+
+Aaron,
+
+I think I have already introduced you to Dawn as I shared the video I recorded on Orchard Trail in October as Wendy and I were picking apples.
+
+I am reshaping it with you because I used the video as an opportunity to learn some new AI tools.  I'm proud of how it turned out, and thought you might be interested.
+
+Here's what I did (in about 30 minutes):
+
+1 – Analyze video, extract audio,  create transcript of conversation (with timing marks) in a text file
+2 - Analyze the transcript, and present 3 different perspectives
+	- Highlights - Short list of general highlights
+	- Marketing Language - Wrap the highlights in suggestions for how they could be used for marketing/promotion
+	- Sound bites - Find punchy lines.  List the text (and start/stop times), along with a how they could be useful.
+
+I have been using AI to write software and do technical transformations, so #1 was in my wheelhouse.
+
+But #2 is not my strong point.  Still!.... It did the bulk of the work on the first prompt and returned the response in less than a minute.  It would have taken me a day to stumble through this, and I wouldn't have done so well.
+
+Video - https://drive.google.com/file/d/1ggaLnr6nB-d4DEy7MawlSpSB-0Vr2NvS/view?usp=sharing
+Transcription and Analysis - https://drive.google.com/file/d/1FPMiwGHaMu-AKmdb99NVwhQ3e1dUiN0N/view?usp=sharing
+
+
