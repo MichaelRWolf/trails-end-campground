@@ -8,7 +8,7 @@
 
 - LandElevation_m: Ground elevation at the Copper Harbor site relative to today's ground elevation (m)
 
-- NetWaterline_m: LakeLevel_m − LandElevation_m (positive = site underwater; negative = site above water)
+- NetWaterline_m: LakeLevel_m - LandElevation_m (positive = site underwater; negative = site above water)
 
 ## Table (story form)
 
