@@ -1,0 +1,6 @@
+timestamp,location,ssid,bssid,signal_dbm,channel
+2026-07-06 17:45:31,Test Location 1,
+Running Wolf Router - 5G,,-69,149,80
+2026-07-06 17:49:44,Test A,,,-67,149,80
+2026-07-06 17:49:46,Test B,,,-67,149,80
+2026-07-06 17:49:48,Test C,,,-67,149,80

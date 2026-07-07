@@ -1,0 +1,32 @@
+Timestamp: 2026-07-06 17:13:17
+
+SSID                           BSSID             Signal Channel
+──────────────────────────────────────────────────────────────
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+
+2. Refer to this BSSID in speedtest logs to identify which antenna tested from
+   each location
+
+Timestamp: 2026-07-06 17:13:47
+
+SSID                           BSSID             Signal Channel
+──────────────────────────────────────────────────────────────
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+Trails                         End               Crew    RSN(PSK/AES/AES)
+Trails                         End               Wifi    NONE
+
+2. Refer to this BSSID in speedtest logs to identify which antenna tested from
+   each location
+
