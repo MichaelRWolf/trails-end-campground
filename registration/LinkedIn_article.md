@@ -4,7 +4,7 @@ I spend my career designing processes and systems that affect how people work an
 
 ## Last Year
 
-My wife Wendy and I arrived at Trails End Campground on a Tuesday in May. The place had just opened for the season. There were roughly 50 unoccupied sites. We drove around, fell in love with how our RV fit just right at a particular spot--good sun exposure, close to water, room to set up for the summer. We moved in. It was perfect.
+My wife and I arrived at a campground on a Tuesday in May. The place had just opened for the season. There were roughly 50 unoccupied sites. We drove around, fell in love with how our RV fit just right at a particular spot--good sun exposure, close to water, room to set up for the summer. We moved in. It was perfect.
 
 That simplicity mattered more than I realized at the time.
 
@@ -35,11 +35,11 @@ Two dimensions of lock-in:
 
 ## Three Quick Examples
 
-A guest named Jan needed a dog-friendly site. She'd booked online, arrived to find an electric fence next to her assigned site. Couldn't know that online. Needed staff to fix it.
+One guest needed a dog-friendly site. She'd booked online, arrived to find an electric fence next to her assigned site. Couldn't know that online. Needed staff to fix it.
 
-Steven preferred shade. His pre-assigned site was sunnier than expected. Would have picked differently if he'd walked the grounds first.
+Another guest preferred shade. His pre-assigned site was sunnier than expected. Would have picked differently if he'd walked the grounds first.
 
-Kevin wanted a site with the right tree for his hammock. Couldn't determine that from a map.
+A third guest wanted a site with the right tree for his hammock. Couldn't determine that from a map.
 
 All three required staff intervention to resolve--or went unresolved.
 
