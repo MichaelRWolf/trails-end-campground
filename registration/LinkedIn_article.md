@@ -65,7 +65,7 @@ And staff ends up mediating problems that used to resolve themselves.
 
 Watch for this in your systems. In your processes. Anywhere you're moving multiple decisions because one system can do both.
 
-The person online can't fall in love with a dropdown list. And by locking the site in, you prevent someone on-site from falling in love with it either. The joy of choosing gets replaced by the transaction of assigning--for everyone.
+The person online can't fall in love with a dropdown list. And by requiring choice sight-unseen, you prevent anyone on-site from ever having the option of "site love at first sight"--finding a place they fall in love with, then sleeping over a few nights before committing long-term. The joy of discovering and testing gets replaced by the transaction of assigning--sight-unseen, up-front, non-negotiable.
 
 ---
 
