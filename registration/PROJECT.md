@@ -2,27 +2,29 @@
 
 ## Goal
 
-Create a LinkedIn article that is a case study in process-aware system design. Specifically: how automation can invisibly couple separate processes, and why regression testing (checking what broke) is as important as validating what improved.
+Write a personal reflection on being a customer of a system that embodies design decisions I've made in my career. Use that experience to illuminate how design decisions (by software tools and implementers) can subtly degrade user experience in easy-to-miss ways. The novelty: seeing from the other side.
 
 ## Primary Summary
 
-**Decisions are not simply about an ultimate selection result. Aspects of the deciding process affect the quality of the decision, and the satisfaction of the deciders.**
+**I've spent my career designing processes and imposing them on customers. This summer, I became a customer. I experienced exactly the kind of decision-coupling I've probably inflicted on others. Here's what I learned.**
 
-## Professional Positioning
+## The Angle
 
-This article showcases expertise in:
+This is NOT about criticizing the system or its makers. It's about:
 
-- **Process definition and technical analysis** -- understanding what a system actually does, not just what it's intended to do
-- **Don't automate bad processes** -- full-featured systems make it easy to move multiple processes together without noticing
-- **Analyze from customer perspective with multiple use cases** -- one improved outcome (capacity guarantee) doesn't mean the system improved overall (site selection degraded)
-- **Regression testing mindset** -- when you change one thing, ask "what else broke?" Did something go backwards?
-- **Signaling matters** -- it's not just about technical outcomes; systems send signals about trust, autonomy, respect
+- **Humility** -- "I imagine these decisions were made because I've made those in the past"
+- **Insight** -- Design decisions can subtly degrade experience in ways that don't show up in success metrics
+- **Regression thinking** -- When you improve one thing, do you check what regressed?
+- **Customer perspective** -- What it feels like to be on the receiving end of a system decision
+- **Professional growth** -- The value of experiencing your own design decisions from the customer side
 
-## Secondary Purpose
+## Why This Matters for LinkedIn Audience
 
-This article is framed as a professional case study suitable for LinkedIn. It can also serve as a foundation for a proposal to Aaron if/when he is receptive to discussing how the new registration system improves one aspect (capacity guarantee/peace-of-mind) while severely degrading another (site selection autonomy and quality).
+**For practitioners:** Shows how full-featured systems and good intentions can couple decisions invisibly, degrading experience in subtle ways.
 
-Current understanding: Wendy's coaching is that we are not invited to propose changes. But the value is in articulating the tradeoff clearly--so that if Aaron becomes aware of the customer harm, he has a framework for understanding it rather than just complaints.
+**For leaders:** Regression testing isn't just for code. When you change a process, ask customers what got worse, not just what got better.
+
+**For all:** The gap between "we solved the stated problem" and "we didn't break anything else" is where most design fails silently.
 
 ## Key Themes to Weave
 
@@ -41,24 +43,24 @@ Story arcs and reorganization to follow. The raw material is preserved in its or
 
 ## Chosen Narrative Arc
 
-**Arc 3: "The Invisible Coupling"**
+**Arc 3 (Reframed): "The Invisible Coupling" -- From the Customer Side**
 
 Why this arc:
 
-- Systems and automation focused (aligns with professional positioning)
-- Highlights the core insight: it's easy to move multiple processes together without noticing
-- Shows how full-featured platforms enable invisible coupling
-- Leads naturally to regression testing / "what broke?" analysis
-- Allows threading of signaling (not just technical but human experience)
+- Shows the system design pattern I recognize from my own work
+- Highlights what it feels like when multiple decisions couple invisibly
+- Demonstrates regression: improved one thing, broke another
+- Allows humility angle: "I've probably made this decision before"
+- Allows threading of signaling (human experience matters)
 
-Arc structure:
+Arc structure (reframed for personal reflection):
 
-1. **Hook** -- Easy to build systems that do many things. Hard to notice you're moving multiple processes together.
-2. **What Happened** -- Registration needed to move pre-arrival (pace of mind). System had features for registration AND site selection. Both moved.
-3. **The Oversight** -- Different timing needs weren't surfaced as explicit design choices.
-4. **Evidence** -- Jan, Steven, Kevin stories showing where coupling caused friction.
-5. **Insight** -- This is easy to overlook when focused on solving one problem.
-6. **Summary** -- Be explicit about which features you use, which timing changes you make. Coupling invisibly is easy. Decoupling later is expensive.
+1. **Hook** -- "I've designed systems like this. This summer, I became the customer."
+2. **The Experience** -- Three moments where I hit friction (Jan/Steven/Kevin scenarios, but as my experience)
+3. **Recognition** -- "I recognize this pattern. I've made decisions like this."
+4. **The Insight** -- Easy to move multiple decisions together without noticing. Especially with full-featured systems.
+5. **Regression Testing Lens** -- "What got better? (Capacity guarantee). What regressed? (Autonomy in site selection)."
+6. **Summary** -- When changing a process, ask customers what they lost, not just what they gained. The gap is where design fails.
 
 ## Key Contrasts
 
