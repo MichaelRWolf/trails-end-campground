@@ -28,11 +28,12 @@ So much has been floating around in my head that I need to get it out.
 
 ## The Coupling Problem
 
-Three separate decisions got bundled together:
+Three separate things got bundled together:
 
-1. **General Admission** -- Will there be an unoccupied site when I arrive? (Capacity commitment. Payment guarantees you room at the campground. You are free to select any unoccupied site.)
-2. **Payment Commitment** -- When and how do I pay? (Financial commitment)
-3. **Site Selection** -- Which specific site do I occupy? (Personal choice based on preference and ground truth)
+1. **Registration** (two linked actions):
+   - **Capacity Commitment** -- Will there be an unoccupied site when I arrive? (Campground guarantees room)
+   - **Payment** -- When and how do I pay? (Camper commits funds)
+2. **Site Selection** -- Which specific site do I occupy? (Personal choice based on preference and ground truth)
 
 These three decisions have different timing requirements, different information needs, different decision-makers, and different reversibility profiles.
 
@@ -366,7 +367,7 @@ To avoid conflating different concepts, use these terms precisely:
 
 ### The Two Core Decisions (MUST BE DECOUPLED)
 
-**GENERAL ADMISSION** (Campground-level decision)
+**CAPACITY COMMITMENT** (Campground-level action)
 
 - **Definition:** The campground guarantees an unoccupied site will be available upon the camper's arrival.
 - **What it commits:** The campground commits capacity; the camper commits payment and duration.
@@ -392,7 +393,7 @@ To avoid conflating different concepts, use these terms precisely:
 
 ### Critical Distinction
 
-**"Guaranteeing General Admission" does NOT require "Pre-assigning Specific Sites."**
+**"Capacity Commitment" does NOT require "Pre-assigning Specific Sites."**
 
 - Old system: General Admission NOT guaranteed (risk of full at arrival); Site Selection autonomous (on-site, self-serve).
 - Current system (pre-General Admission): General Admission guaranteed; Site Selection pre-assigned (off-site, locked in).
