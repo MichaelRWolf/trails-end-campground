@@ -30,11 +30,13 @@ So much has been floating around in my head that I need to get it out.
 
 Three separate decisions got bundled together:
 
-1. **Availability Guarantee** -- Will there be room when I arrive? (Capacity commitment)
+1. **General Admission** -- Will there be an unoccupied site when I arrive? (Capacity commitment. Payment guarantees you room at the campground. You are free to select any unoccupied site.)
 2. **Payment Commitment** -- When and how do I pay? (Financial commitment)
-3. **Site Selection** -- Which specific site is mine? (Site commitment)
+3. **Site Selection** -- Which specific site do I occupy? (Personal choice based on preference and ground truth)
 
 These three decisions have different timing requirements, different information needs, different decision-makers, and different reversibility profiles.
+
+**Critical correction on context:** There never was an office with staff handling registrations. The old system was pay-by-envelope in a locked cash box--honor system. No staff service except in exceptional situations. This is crucial: the new system doesn't just change the process; it introduces staff time requirements to resolve conflicts that didn't exist before (or happened rarely). Because now site assignments are made without ground truth, more conflicts occur. Each one requires staff intervention.
 
 **What happened:** In trying to solve problem #1 (no availability guarantee), the system was designed with capabilities for all three. Since it had the features, all three actions migrated from arrival-time to planning-time. This was natural and almost invisible--the same system could do all three, so why not?
 
@@ -362,24 +364,41 @@ The decision to come to the campground involves three separate decisions, each w
 
 To avoid conflating different concepts, use these terms precisely:
 
-### Campground-Level Decisions
+### The Two Core Decisions (MUST BE DECOUPLED)
 
-- **Capacity Check / Campground Guarantee** -- Is there room for this camper at the campground (any site)? This is a binary yes/no about general admission.
-- **Availability Guarantee** -- The camper has confirmed peace of mind that they can come; the CG commits to having a site for them.
+**GENERAL ADMISSION** (Campground-level decision)
 
-### Site-Level Decisions
+- **Definition:** The campground guarantees an unoccupied site will be available upon the camper's arrival.
+- **What it commits:** The campground commits capacity; the camper commits payment and duration.
+- **Information needed:** Current occupancy, business rules, payment terms.
+- **Optimal timing:** Offsite, as early as the camper wants to plan (ASAP for peace of mind).
+- **Decision maker:** Campground (system) approves or denies; camper decides whether to come.
+- **No staff service required:** Just confirmation.
+
+**SITE SELECTION** (Individual-level decision)
+
+- **Definition:** The camper chooses which specific unoccupied site they will occupy.
+- **What it commits:** The camper commits to a place they've observed.
+- **Information needed:** Sensory observation (sun, shade, views, vibe, proximity, space, feel).
+- **Optimal timing:** On-site, at arrival, when full sensory information is available.
+- **Decision maker:** Camper (individual) makes choice based on preference.
+- **No staff service required (in General Admission model):** Camper sees unoccupied site, claims it.
+
+### Supporting Definitions
 
 - **Site Vacancy** -- Is the physical site currently unoccupied? (Observable on-site; shown on a map as "unoccupied")
-- **Site Availability (in database)** -- Does the database rules permit selecting this site? (May differ from vacancy due to locks, holds, future bookings)
-- **Site Selection** -- The camper chooses which specific site they will occupy.
+- **Site Availability (in database)** -- Does the database permit selecting this site? (May differ from vacancy due to locks, holds, future bookings--this is the coupling problem)
+- **Unoccupied Site** -- A site with no camper currently set up; available for General Admission selection.
 
 ### Critical Distinction
 
-**"Guaranteeing Capacity" does NOT require "Pre-assigning Specific Sites."**
+**"Guaranteeing General Admission" does NOT require "Pre-assigning Specific Sites."**
 
-- Old system: Capacity is NOT guaranteed; site selection is autonomous (on-site).
-- New system: Capacity IS guaranteed; site selection is pre-assigned (off-site, locked in).
-- Alternative system: Capacity could be guaranteed while site selection remains autonomous (on-site).
+- Old system: General Admission NOT guaranteed (risk of full at arrival); Site Selection autonomous (on-site, self-serve).
+- Current system (pre-General Admission): General Admission guaranteed; Site Selection pre-assigned (off-site, locked in).
+- **General Admission model:** General Admission guaranteed; Site Selection autonomous (on-site, self-serve).
+
+The last option decouples the two. It says: "We guarantee you room. You select which room when you get here."
 
 ### Commitment Types
 
