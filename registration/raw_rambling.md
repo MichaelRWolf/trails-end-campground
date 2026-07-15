@@ -4,9 +4,43 @@ This file captures unedited observations, stories, metaphors, and framework dime
 
 ## Context & Framing
 
-I hope to assume Aaron would be receptive to a proposal to change the registration process if I provided an adequate analysis of why the new system improves one aspect but severely degrades another. Wendy's coaching is that we are not invited for that. I understand that. I also want to believe that somebody who doesn't know something about how his customers are being harmed in his vision would want to hear about it. A middleway is to look at this as a professional posting on LinkedIn that shows an aspect of system design, then second-purpose it to Aaron.
+The owner has a vision for the campground. I want to support that vision. But I also want to gently point out where vision-constraining coupling happened when he tried to provide a great new service--a guaranteed admittance system--and in doing so, crumbled a working one.
+
+This is a case study I can showcase to professional friends. A real-world experience that reinforces thoughts I've had about decision-vs-deciding, and how it relates to how you and your team can approach decisions when they have tradeoffs for internal versus customer-facing processes.
+
+**The subtle point I want to surface:** In trying to fix one problem (no vacancy guarantee), it may not have been immediately obvious that two separate things were happening and got coupled together. It's easy to do with a full-featured package (an online reservation system has capabilities for all three decisions), and easy to overlook as you're trying to understand the new system and lose track of how it may have affected BOTH the intended change (to provide a guarantee) AND an unintended change (removing freedom, joy, and full information from the site selection experience).
+
+I hope Aaron would be receptive to an analysis of why the new system improves one aspect but severely degrades another. Wendy's coaching is that we are not invited to propose changes. I understand that. But I believe that if someone doesn't know how customers are being harmed, they'd want to hear about it. A middle way is to frame this as a professional posting on LinkedIn that shows an aspect of system design--then second-purpose it if/when Aaron becomes receptive.
 
 So much has been floating around in my head that I need to get it out.
+
+---
+
+## Experience vs. Task
+
+**Old System:** Site selection was an *experience*. You arrived, you walked around the campground with your companions, you observed sun and shade and views and vibe, you felt what it would be like to live there for a few days, you made a collaborative choice, you set up. The choosing was part of the vacation experience. It was joyful, rich, embodied, sensory.
+
+**New System:** Site selection became a *task*. You sit at home or in your car on the way, you look at a map and a description, you pick a number, you pay. You've committed to a site with inadequate information. When you arrive, if it's wrong, you face frustration: finding Wi-Fi, launching an app, discovering that "vacant" doesn't mean "available," finding someone with admin access. The choosing is now a bureaucratic task that happens before you have ground truth.
+
+**The Loss:** The experience that made site selection joyful--sensory observation, collaboration, autonomy, the delight of finding the perfect fit--got compressed into a hurried decision with a dropdown list. The richness of possibility was replaced by the constraint of pre-selection.
+
+---
+
+## The Coupling Problem
+
+Three separate decisions got bundled together:
+
+1. **Availability Guarantee** -- Will there be room when I arrive? (Capacity commitment)
+2. **Payment Commitment** -- When and how do I pay? (Financial commitment)
+3. **Site Selection** -- Which specific site is mine? (Site commitment)
+
+These three decisions have different timing requirements, different information needs, different decision-makers, and different reversibility profiles.
+
+**What happened:** In trying to solve problem #1 (no availability guarantee), the system was designed with capabilities for all three. Since it had the features, all three actions migrated from arrival-time to planning-time. This was natural and almost invisible--the same system could do all three, so why not?
+
+**The oversight:** No one said "wait, these are three different decisions with different optimal timing." The coupling was so implicit in the system design that the fact that you were changing the timing of site selection (decision #3) along with the availability guarantee (decision #1) didn't surface as an explicit choice.
+
+**The consequence:** Decisions #1 and #2 actually improved. But decision #3 degraded significantly because the timing is wrong--site selection needs to happen when the camper has ground truth about the sites.
 
 ---
 
@@ -258,7 +292,19 @@ The campground has an amazing variety of sites. This is something neutral for th
 
 ## Key Dimensions: Decision-Process Framework
 
-The decision to come to the campground is actually three separate decisions, each with its own dimensions:
+The decision to come to the campground involves three separate decisions, each with its own dimensions. They have different optimal timing, different information needs, different decision-makers--and they can be decoupled. But they got coupled in the new system.
+
+### The Three Decisions (Decoupled Model)
+
+| Decision                   | Optimal Timing         | Primary Info Source    | Decision Maker      | Scope                    |
+|----------------------------|------------------------|------------------------|---------------------|--------------------------|
+| **Availability Guarantee** | Before arrival (ASAP)  | Database query + rules | Campground          | Campground-wide capacity |
+| **Payment Commitment**     | When guarantee is made | Terms, rates           | Camper + Campground | Financial                |
+| **Site Selection**         | At arrival (on-site)   | Sensory observation    | Camper              | Individual site          |
+
+**Key insight:** You can decouple these. A system could guarantee campground capacity early (peace of mind) while deferring site selection to arrival time (ground truth). The current system coupled them, but that was a design choice, not a necessity.
+
+### Dimension Analysis (with coupling problem highlighted)
 
 ### Dimension 1: TIMING (When is the decision made?)
 
@@ -382,9 +428,39 @@ Systems that say "we trust you to make good choices" build better relationships 
 
 ---
 
+## Article Structure & Professional Purpose
+
+### The Hook
+
+Open with the owner's vision: to build something special. A campground with extraordinary variety of sites, each unique, each suited to different preferences and moods. The owner wants people to experience that richness. Then: he identified a problem (no vacancy guarantee scares off potential guests) and implemented a solution (online reservation system to guarantee capacity). Smart move. Good intention. But something unintended happened.
+
+### The Three Stories (Arc)
+
+Tell Jan, Steven, and Kevin--three campers who all hit friction in the new system. Each story shows a different angle of the problem. But don't just criticize; show the self-service alternative version for each. This surfaces the pattern: "what if these decisions had different timing?"
+
+### The Framework (Why it happened)
+
+Explain the coupling problem: three separate decisions got bundled. It was natural--the system had the features--but it wasn't intentional. Point out how easy this is to overlook when you're focused on the intended change (guarantee) and haven't yet seen the unintended side effect (loss of autonomy in site selection).
+
+### The Professional Insight (Why it matters)
+
+This isn't just a campground problem. It's a general design principle:
+
+- When you change the timing of one decision, watch for side effects on other decisions.
+- When you use a full-featured system, be explicit about *which capabilities* you're actually using.
+- When you optimize for one stakeholder concern (peace of mind for uncertain guests), don't accidentally remove autonomy and joy from another process (site selection for arriving guests).
+- Value presence over off-site. When full sensory information matters, defer the decision to the moment of presence.
+
+### The Takeaway (Not a criticism, a lesson)
+
+The owner's vision is sound. The problem he identified was real. The solution he chose was logical. But it had a hidden coupling cost. This is a case study in how good intentions can have unintended consequences--and how to spot them earlier next time, in your own systems.
+
+---
+
 ## Open Questions
 
 - What is best terminology about collective campground vacancy, capacity, availability?
 - What is best terminology about specific sites? Vacant. Available. Occupied (by me, by someone else). Unavailable.
 - Could the campground guarantee capacity while preserving on-site site selection?
 - What would a "hybrid" system look like that moved only the capacity guarantee off-site, while keeping site selection at arrival?
+- How do you communicate this to Aaron in a way that feels like "I'm helping you protect your vision" rather than "you messed up"?
