@@ -62,6 +62,44 @@ Can you process shift all three of those to offsite pre-arrival time? Anytime be
 
 ---
 
+## Alternative Stories: Self-Service Outcomes
+
+In the current system, all three stories required staff intervention or frustration due to database limitations. Here's how they would look under a system that preserves on-site autonomy:
+
+### 1. Jan and Her Dog (Self-Service Version)
+
+Jan arrives and walks the campground with her dog. She notices that a couple of sites have electric fences nearby and avoids those. She finds a perfect site--open enough for her dog to roam safely, shaded, quiet, near water. She walks to the office, confirms it's available, registers it, pays, and sets up.
+
+**Outcome:** Jan gets the right site for her needs. Zero staff time spent on modification. She feels trusted and respected. She feels smart--she made a good decision based on direct observation.
+
+### 2. Steven & Friends (Self-Service Version)
+
+Steven and friends arrive and spend 30 minutes walking the campground together, discussing what they want. "We'd prefer shade." They find a shady spot with great views. Someone says "this one feels right." They walk to the office, confirm availability, register, pay, and set up.
+
+**Outcome:** Steven's group makes a collaborative decision. They got their preferred site. Zero staff time. The site selection process itself was part of the bonding experience--learning about each other's preferences, moving around the landscape together. The decision is not a regretted compromise, but a shared win.
+
+### 3. Kevin in a Hammock (Self-Service Version)
+
+Kevin arrives, remembering the simple process from before. He drives around, takes pictures of vacant sites, finds one with a perfect tree for his hammock and a good view. He walks to the office, registers it, pays, sets up.
+
+**Outcome:** Kevin is in control. No timeouts, no provisional holds, no second-best compromise. He selected exactly the site that matched his (admittedly specific) needs. Zero staff time. He feels competent and autonomous.
+
+---
+
+### The Self-Service Pattern
+
+In all three alternative versions:
+
+- **No database permission required** -- camper sees it's vacant, it's available
+- **No staff intervention** -- the decision and action are self-serve
+- **No frustration** -- camper gets what they wanted, without bureaucratic friction
+- **No staff time spent** -- registration, switching, adjustments all happen without admin help
+- **Trust signaled** -- the system says "we trust you to make good choices"
+
+The cost of on-site autonomy is low. The benefit is substantial: freedom, agency, correct outcomes, and a hospitality message that says "we respect your ability to know what's good for you."
+
+---
+
 ## Metaphors
 
 ### The Map Is Not the Terrain
@@ -77,6 +115,14 @@ Every newly arrived camper selected a site based on their own perspective. No ce
 ### Different Chairs (Christopher Alexander)
 
 Allowing people to select a chair that fits them sends a welcoming message. Requiring everyone to sit in identical chairs sends a requirement for conformity, fitting in, and devalues personal preferences and expression. Does the chair serve you, or do you serve the system?
+
+**The Stinger:**
+
+If this were a KOA, where every site is as identical as a Motel 6 room, it would be OK to select a site from a dropdown list. This campground is much richer than that. Denying campers the luxury, freedom, and autonomy is denying them the richness that was created here.
+
+Requiring "permission" from a database before occupying a site deprives them of a sense of freedom that was previously present. Coupling site selection to a database requires staff intervention for the kinds of actions that were previously self-serve: site selection, switching sites, extending visit duration.
+
+Having to find a staff member is not only a time investment and frustration in bureaucracy, it is also a signal--of distrust, lack of respect, and reduced hospitality. Conversely, self-service signals trust. It signals "we trust you to make good choices for yourself."
 
 ---
 
@@ -210,7 +256,135 @@ The campground has an amazing variety of sites. This is something neutral for th
 
 ---
 
+## Key Dimensions: Decision-Process Framework
+
+The decision to come to the campground is actually three separate decisions, each with its own dimensions:
+
+### Dimension 1: TIMING (When is the decision made?)
+
+| Decision                 | Old System         | New System                 |
+|--------------------------|--------------------|----------------------------|
+| **Campground Guarantee** | Checked at arrival | Guaranteed before arrival  |
+| **Payment Commitment**   | At arrival         | Before arrival             |
+| **Site Selection**       | At arrival         | Before arrival (locked in) |
+
+**Key insight:** Timing affects information availability. At arrival, campers can see/feel the sites. Before arrival, they can only see a map and description. These are very different information sets.
+
+### Dimension 2: INFORMATION SOURCE (What info is available?)
+
+| Context                       | Campground Guarantee                   | Payment | Site Selection                                                     |
+|-------------------------------|----------------------------------------|---------|--------------------------------------------------------------------|
+| **Off-site (before arrival)** | Database query (current state)         | N/A     | Map, description, site number                                      |
+| **On-site (at arrival)**      | Visual count (current state + sensory) | N/A     | Visual observation + sensory input (sun, shade, views, wind, vibe) |
+
+**Key insight:** On-site information is exponentially richer for site selection. Off-site information is sufficient for checking general capacity.
+
+### Dimension 3: DECISION MAKER (Who chooses?)
+
+| Decision                 | Who Decides            | Authority                                       | Staff Role                       |
+|--------------------------|------------------------|-------------------------------------------------|----------------------------------|
+| **Campground Guarantee** | Campground (system)    | Institutional                                   | Runs availability database       |
+| **Payment**              | Camper (with CG rules) | Mixed                                           | Process transaction              |
+| **Site Selection (old)** | Camper                 | Individual                                      | Confirms availability, processes |
+| **Site Selection (new)** | Camper (off-site)      | Individual (but constrained by future bookings) | Constrained by database rules    |
+
+**Key insight:** The new system takes individual site selection and subordinates it to institutional constraints (future bookings, database locks). The old system honored individual judgment at the moment of arrival.
+
+### Dimension 4: REVERSIBILITY (Can the decision be changed?)
+
+| Decision                 | Old System                           | New System                                        |
+|--------------------------|--------------------------------------|---------------------------------------------------|
+| **Campground Guarantee** | Check at arrival; if full, send away | Decided before arrival; binding                   |
+| **Payment**              | At arrival; reversible if leaving    | Before arrival; reversible but requires app/staff |
+| **Site Selection**       | At arrival; self-serve site switch   | Before arrival; requires app or staff help        |
+
+**Key insight:** Early commitment removes flexibility. The new system locks people in before they have full information.
+
+### Dimension 5: SELF-SERVICE vs. STAFF-MEDIATED
+
+| Decision           | Old System                                 | New System                                    |
+|--------------------|--------------------------------------------|-----------------------------------------------|
+| **Site Selection** | Self-serve (see it, claim it)              | Staff-mediated (requires app or person)       |
+| **Site Switching** | Self-serve (move to vacant site)           | Staff-mediated (requires database mod or app) |
+| **Stay Extension** | Self-serve (add more time, update payment) | Staff-mediated (requires database mod)        |
+
+**Key insight:** Moving decisions to a database backend transforms what used to be self-serve autonomy into staff-dependent requests.
+
+---
+
+## Lexicon: Standard Terms
+
+To avoid conflating different concepts, use these terms precisely:
+
+### Campground-Level Decisions
+
+- **Capacity Check / Campground Guarantee** -- Is there room for this camper at the campground (any site)? This is a binary yes/no about general admission.
+- **Availability Guarantee** -- The camper has confirmed peace of mind that they can come; the CG commits to having a site for them.
+
+### Site-Level Decisions
+
+- **Site Vacancy** -- Is the physical site currently unoccupied? (Observable on-site; shown on a map as "unoccupied")
+- **Site Availability (in database)** -- Does the database rules permit selecting this site? (May differ from vacancy due to locks, holds, future bookings)
+- **Site Selection** -- The camper chooses which specific site they will occupy.
+
+### Critical Distinction
+
+**"Guaranteeing Capacity" does NOT require "Pre-assigning Specific Sites."**
+
+- Old system: Capacity is NOT guaranteed; site selection is autonomous (on-site).
+- New system: Capacity IS guaranteed; site selection is pre-assigned (off-site, locked in).
+- Alternative system: Capacity could be guaranteed while site selection remains autonomous (on-site).
+
+### Commitment Types
+
+- **Camper Commitment to Campground** -- "I'm coming; I've paid; I have a guaranteed spot"
+- **Camper Commitment to Specific Site** -- "I'm coming to *this site*; it's mine"
+
+These are separable. You can have one without the other.
+
+---
+
+## Heuristics for Decision Placement
+
+Based on the analysis, use these heuristics to decide WHEN and WHERE decisions should be made:
+
+### Heuristic 1: "Value Presence Over Off-Site"
+
+When full sensory and contextual information is important, push the decision to the moment of presence (on-site, in-person) over off-site planning.
+
+**Applies to:** Site selection. Visual observation, feeling, spatial awareness, collaboration with travel companions--all improve on-site. Off-site you have maps; on-site you have ground truth.
+
+**Applies to:** Stay duration (how long do we want to be here?). Better decided after a day or two, not weeks before.
+
+### Heuristic 2: "ASAP for Guarantees, Delay for Refinements"
+
+Move guarantees as early as possible (so campers can plan). Delay refinements until full information is available.
+
+**Applies to:** Capacity guarantee should be early (off-site, as soon as camper wants to plan). Site selection should be late (on-site, with full information).
+
+### Heuristic 3: "Maximize Autonomy and Self-Service"
+
+Avoid requiring staff intervention for decisions that can be made independently by the camper.
+
+**Applies to:** Site selection, switching, duration changes. When a camper can see a vacant site and claim it themselves, they should be able to. No database required; no staff required; trust the camper.
+
+### Heuristic 4: "Prefer Reversible Decisions"
+
+When committing early, ensure the decision can be easily changed if circumstances change.
+
+**Applies to:** Site selection. If locked in before arrival, make it trivial to switch once on-site (one conversation, no app, no database lookup).
+
+### Heuristic 5: "Signal Trust Through Self-Service"
+
+Systems that say "we trust you to make good choices" build better relationships than systems that say "you need permission from the database."
+
+**Applies to:** Letting campers select their own sites. Not just the functional outcome, but the *signal* matters. "We respect your judgment" is different from "we control your options."
+
+---
+
 ## Open Questions
 
 - What is best terminology about collective campground vacancy, capacity, availability?
 - What is best terminology about specific sites? Vacant. Available. Occupied (by me, by someone else). Unavailable.
+- Could the campground guarantee capacity while preserving on-site site selection?
+- What would a "hybrid" system look like that moved only the capacity guarantee off-site, while keeping site selection at arrival?
