@@ -6,6 +6,8 @@ In the 300 nights we've spent here, we've come to love this place for many reaso
 
 So I'm taking a risk here because I see something and want to say something--about the new (and old) registration systems.
 
+I have an issue that needs some staff time. But I also have a proposal that I believe would prevent the kinds of problems that need staff time.
+
 ## What I've Observed
 
 **Observation on terminology:** Registering has three parts:
@@ -55,14 +57,15 @@ This gives your guests:
 - Peace of mind (capacity guaranteed early)
 - Autonomy (site selection at arrival, on-site, with full information)
 - Joy (discovery is preserved)
-- Self-service (no staff mediation needed)
+- No need for an app (or WiFi)
 
-This gives your staff:
+This gives your staff and campground manager:
 
 - No need to mediate site selection issues
 - No tech support troubleshooting
 - No database modifications for guests who picked wrong
-- Freedom to focus on hospitality instead of problem-solving
+- No need to monitor texts and phone calls worried about being out of range
+- Freedom to actually manage the campground instead of solving lock-in problems
 
 You've built something special here. Honor that. Don't force your best customers to pick from a dropdown when what makes this place special is that they get to *feel* their way into it.
 
