@@ -38,13 +38,28 @@ I've already seen it a few times this year: people discover that the online site
 
 None of these problems needed to exist. And none required your staff's time or your guests' frustration.
 
-## What Would Work
+## What Would Work: A Hybrid System
 
-Guarantee admission online. Keep site selection for arrival.
+**Online (as far in advance as they want):**
 
-Let people walk around, feel the place, fall in love, and choose. The system could do both. It chooses not to.
+- Campground-level lock-in and payment
+- Reply message: "Please come. We have space for you. We know that everyone has different needs and preferences, so when you get here, you are free to select any vacant space that makes you happy."
+
+**On-site (at arrival):**
+
+- Site lock-in happens after they've walked the grounds
+- Find a space → Fall in love → Confirm it's theirs
+
+This gives people:
+
+- Peace of mind (capacity guaranteed early)
+- Autonomy (site selection at arrival, on-site, with full information)
+- Joy (discovery is preserved)
+- Self-service (no staff mediation needed)
 
 You've built something special here. Honor that. Don't force your best customers to pick from a dropdown when what makes this place special is that they get to *feel* their way into it.
+
+The system could do both. You're choosing not to. I'm asking you to reconsider.
 
 ---
 
