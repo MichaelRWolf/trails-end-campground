@@ -50,12 +50,19 @@ None of these problems needed to exist. And none required your staff's time or y
 - Site lock-in happens after they've walked the grounds
 - Find a space → Fall in love → Confirm it's theirs
 
-This gives people:
+This gives your guests:
 
 - Peace of mind (capacity guaranteed early)
 - Autonomy (site selection at arrival, on-site, with full information)
 - Joy (discovery is preserved)
 - Self-service (no staff mediation needed)
+
+This gives your staff:
+
+- No need to mediate site selection issues
+- No tech support troubleshooting
+- No database modifications for guests who picked wrong
+- Freedom to focus on hospitality instead of problem-solving
 
 You've built something special here. Honor that. Don't force your best customers to pick from a dropdown when what makes this place special is that they get to *feel* their way into it.
 
