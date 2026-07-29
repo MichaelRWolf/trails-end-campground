@@ -98,3 +98,7 @@ You've built something special here. Honor that. Don't force your guests to pick
 
 The best of the new system - guaranteed availability
 The best of the old system - guaranteed site that fits them
+
+---
+
+*Wendy's perspective on "being captain of our life": <https://wendyrwolf.com/be-captain/being-captain-of-our-life-changes-our-life-our-world-a-manifesto-from-wendy-r-wolf/>*
